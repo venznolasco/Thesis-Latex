@@ -1,0 +1,109 @@
+\chapter{INTRODUCTION}
+
+{\baselineskip=2\baselineskip
+
+\section{Background of the Study}
+
+Multi-camera object detection systems have emerged as powerful tools for understanding customer behavior in retail environments. Using computer vision models such as YOLO and DeepSORT, these systems can track customers’ paths, dwell times, and interactions with specific product zones \citep{Erlina2023, Chen2022}. These capabilities allow retailers to visualize behavioral patterns, such as popular store paths or frequently visited shelves, and use this data to guide product placement and layout decisions, ultimately optimizing the shopping experience and increasing sales \citep{Cobos2019}.
+
+Despite these technological advancements, many retail stores rely on manual tracking methods or lack a system altogether. This gap was validated during an interview with a store owner from a Cagayan de Oro City gift shop. The owner confirmed that they do not use any system to monitor customer traffic or behavior. They expressed openness to adopting tools that provide meaningful analytics, such as customer counts, dwell time, and shelf visit frequency. Notably, they identified the beauty section as receiving high attention, but had no data to evaluate performance in other parts of the store. Their willingness to modernize store operations and interest in metrics-driven decision-making underscored the need for a solution like SUBAY.
+
+
+Furthermore, the absence of structured data inhibits store owners from making informed decisions about layout changes, promotions, and resource allocation. Manual observation is insufficient to capture nuanced customer behaviors or the impact of environmental factors such as shelf arrangement or product placement. The lack of detailed analytics leaves managers guessing where and how to improve store performance. SUBAY addresses these limitations by offering a system that detects and tracks customer movement and analyzes and visualizes behavioral data in an actionable form.
+
+By anchoring its development in a real-world setting and responding to a clearly expressed need from store management, this study establishes both the technological and practical relevance of SUBAY. It highlights how advanced multi-camera systems can help retailers evolve toward data-driven strategies that drive growth, operational efficiency, and customer satisfaction.
+%-----------------------------------------------------------------------------------------------
+
+%-----------------------------------------------------------------------------------------------------------------------------------
+\section{Statement of the Problem}
+
+Despite the advancements in intelligent marketing and computer vision technologies, many retail establishments continue to operate without structured systems for analyzing customer behavior. As confirmed in an interview with an owner of a gift shop in Cagayan de Oro City, customer monitoring is currently done informally, relying on assumptions rather than data. This lack of behavioral analytics impedes product placement, promotional strategies, and layout optimization decision-making.
+
+While existing solutions, such as single-camera tracking systems or manual foot traffic counting, are still widely used, they suffer from accuracy, coverage, and data depth limitations. Occlusions, blind spots, and constrained viewpoints prevent these systems from capturing a holistic view of customer movement and engagement \citep{Amosa2023}. Although multi-camera systems have been proposed to address these challenges \citep{Xie2024, Chen2022}, few implementations offer an integrated, scalable solution tailored for small- to medium-sized retail settings.
+
+This study addresses this gap by developing and evaluating a multi-camera tracking system that utilizes advanced computer vision methods, including YOLOv10 for detection, DeepSORT and OSNet for tracking and re-identification, and a web-based analytics dashboard to provide retail owners with detailed insights on foot traffic, dwell time, and zone-based customer engagement. The goal is to offer a practical and data-driven tool that improves store performance, supports intelligent marketing decisions, and modernizes retailers' operations.
+
+\section{Objectives of the Study}
+The main objective of this study is to develop a multi-camera object detection system for monitoring customer movement and behavior in retail environments. Specifically, the study aims to:
+
+\begin{enumerate}
+	\item Implement computer vision models to detect, track, and count customers using a multi-camera approach;
+	\item Develop a web-based application for visualizing data and generating customer analytics based on the outputs of the detection, tracking, and counting models; and
+	\item Evaluate the performance and usability of the multi-camera object detection system.
+\end{enumerate}
+
+\section{Significance of the Study}
+
+This study is significant for its practical contribution to modernizing retail analytics through a multi-camera customer tracking and behavior analysis system. The traditional approach to monitoring customer behavior, often limited to manual observation or single-camera setups, fails to capture detailed insights on how customers move through store zones, which products they engage with, and how long they dwell in specific areas \citep{Amosa2023,Chen2022}. These limitations are especially evident in small to medium-sized retail stores that lack access to advanced analytics tools.
+
+This research offers a data-driven, computer vision-based solution that gives retailers actionable insights. Integrating multi-camera feeds minimizes occlusion issues and expands spatial coverage for a more accurate view of customer activity \citep{Li2023}. This improvement enables more precise measurement of foot traffic, dwell time, and zone engagement, critical metrics for optimizing store layout and promotional strategies.
+
+\textbf{For small to medium-sized store owners and managers}, the system addresses the desire for modern marketing tools and supports strategic decision-making based on reliable customer data.
+
+\textbf{For developers}, it offers a tested framework combining YOLOv10, DeepSORT, and OSNet for multi-camera tracking, and Firebase-integrated web analytics.
+	
+\textbf{For future researchers}, this study contributes to the growing field of intelligent retail systems and presents a replicable approach to bridging technological gaps in customer behavior analytics.
+
+\section{Scope and Limitations}
+
+This study focuses on indoor retail settings, small to medium-sized stores such as gift shops and specialty outlets. The developed system was designed to analyze in-store customer behavior by detecting, tracking, and aggregating data related to foot traffic, dwell time, and zone engagement. Using multiple CCTV feeds and advanced computer vision techniques, including YOLOv10, DeepSORT, and OSNet, the system produces post-event behavioral analytics to support data-driven decision-making in retail layout, product positioning, and promotional strategy.
+
+The system is limited to physical, in-store environments. It does not account for external behavioral influences such as e-commerce trends, seasonal buying patterns, or customer intent behind purchase decisions. It also does not include market trend forecasting or customer preference analysis at a historical or brand-specific level. While customer preference analysis typically involves evaluating factors such as brand choice, pricing influence, or product features, often based on historical transactions or profiling, SUBAY focuses solely on customer behavior analysis, which is limited to observable, non-identifiable actions within the store.
+
+Additionally, real-time monitoring was not implemented in the deployed system. The solution operates as a post-event analytics tool, emphasizing the feasibility of multi-camera systems in providing actionable insights for intelligent marketing in physical retail environments.
+
+\section{Definition of Terms}
+
+\textbf{Centroid} - In this study, this is the center of the bottom edge of the detected bounding box. This position corresponds to the estimated location where a customer contacts the ground plane, which is crucial for accurately tracking movement across regions of interest (ROIs) within the retail environment.
+
+\textbf{Color Mapping} - Allows viewers to differentiate easily between areas with varying population densities. The transition from blue to green to yellow and finally to red provides a clear visual representation of population density, with red areas standing out as the most densely populated.
+
+\textbf{Computer Vision} - It is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects and then react to what they “see.”
+
+\textbf{Customer Analytics} - The process of collecting, analyzing, and interpreting customer data to understand their behaviors and interactions with products to improve marketing strategies and store performance.
+
+\textbf{Customer Behavior} - Refers to customers' observable patterns and actions within a retail environment. In this study, customer behavior is measured using key metrics such as visit frequency (how often customers visit or approach specific shelves or aisles) and dwell time (the amount of time customers spend in a particular aisle or product area, technically named as “zone” in this study). These indicators provide insight into customer interest and engagement with specific products or store sections.
+
+\textbf{Customer Count} - The number of customers detected and counted by the system.
+
+\textbf{Customer Preference Analysis} - Refers to identifying and understanding consumer choices, including which product attributes, categories, or brands they favor. It involves analyzing factors influencing purchasing decisions, such as quality, price, packaging, and brand loyalty.
+
+\textbf{Dataset} - A structured collection of annotated images or video frames to train, validate, and evaluate computer vision models. This study's datasets consist of footage captured from the retail store environment. These datasets include labelled examples of persons to help the models learn to recognize and track objects accurately in real-world retail scenarios.
+
+\textbf{Deep Learning} - A branch of machine learning that uses artificial neural networks to learn and make predictions or decisions.
+
+\textbf{DeepSORT} - It is a deep learning-based multi-object tracking algorithm that extends the Simple Online and Realtime Tracking (SORT) method by incorporating appearance information. In this study, DeepSORT works alongside YOLOv10 to consistently track individual customers across multiple camera views. It assigns a unique and persistent ID to each detected person, enabling SUBAY to accurately monitor movements, track aisle visits, and calculate dwell time without identity loss, even in overlapping or occluded scenarios.
+
+\textbf{Dwell Time} - The time customers spend in a particular zone, indicating their interest in specific products or displays.
+
+\textbf{Foot Traffic} - The flow of customers through a retail environment that can provide insights into store layout efficiency, product placement, and customer interest in specific areas.
+
+\textbf{Ground Truth} - Refers to the absolute and objective truth about a particular situation or event. In this situation, it is the real total count or zone count.
+
+\textbf{Heat Mapping} - A two-dimensional representation of data in which colors represent values. A simple heat map provides an immediate visual summary of information, while more elaborate heat maps allow the viewer to understand complex data sets.
+
+\textbf{Hotspots} - Spots or areas in the store that customers frequently visit.
+
+\textbf{Intelligent Marketing} - A data-driven approach that leverages technologies like machine learning and multi-camera tracking to understand customer behaviors better, allowing retailers to create targeted marketing strategies.
+
+\textbf{Models} - Algorithms and statistical models, such as YOLO for object detection and DeepSORT for tracking, analyzing, and interpreting video footage to identify and track customers.
+
+\textbf{Multi-Camera Tracking} - A technology that utilizes multiple surveillance cameras strategically placed at different angles within a retail environment to monitor customer movements and interactions across various store zones. This approach addresses limitations common in single-camera systems, such as occlusion, blind spots, and limited coverage. In this study, multi-camera tracking is achieved using the DeepSORT algorithm, which maintains consistent customer identities by analyzing motion patterns and appearance features.
+
+\textbf{Object Detection} - A fundamental task in Computer Vision that involves identifying and localizing multiple objects within an image or video frame. It typically outputs bounding boxes, class labels, and confidence scores for each detected object. In this study, object detection is performed using the YOLOv10 algorithm, which enables real-time identification of customers and other entities within retail store footage captured by CCTV cameras.
+
+\textbf{Occlusion} - A challenge in video-based tracking where a customer’s view is obstructed by objects, people, or other environmental factors, making it difficult for single-camera systems to track them accurately.
+
+\textbf{Post-Event Analysis} - The process of reviewing and analyzing video footage after it has been recorded, rather than in real-time, to gather insights into customer behaviors and movement patterns.
+
+\textbf{Tripline} - A virtual line or digital boundary placed within a video frame, typically at store entrances or exits, that detects and logs directional movement when crossed by a tracked object. In the context of the SUBAY system, triplines are strategically positioned to monitor customer entry and exit. When a customer's centroid (tracked using YOLOv10 and DeepSORT) crosses the tripline, the system logs their movement direction and updates the customer count accordingly.
+
+\textbf{YOLO (You Only Look Once)} - A real-time object detection system that identifies objects within a camera's view, used in this study to detect customers as they move through a retail environment.
+
+\textbf{Zone} - Refers to specific regions or areas of interest within an image or video frame, defined for various purposes such as object detection, tracking, region analysis, or segmentation. In this study, zone refers to the aisle where products are displayed and would be the basis for determining visits and dwell time.
+
+\textbf{Zone Count} - Refers to the incrementation of the count when an object enters the zone.
+
+\textbf{Zone-Specific Activity} - Refers to customer movements and interactions within specific areas of a store, providing insights into which products or regions attract the most attention.
+
+}
