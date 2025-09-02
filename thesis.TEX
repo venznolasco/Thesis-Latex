@@ -1,0 +1,111 @@
+% % % % % % % % % % % % % % % % % % % % % % % % %
+% thesis.tex                                    %
+% by Engr. Jodie Rey D. Fernandez               %
+%    and Engr. Venz Joshua Nolasco				%
+%								                %
+% Department of Computer Engineering            %
+% College of Engineering and Architecture       %
+% USTP - CDO                                    %
+% Lapasan, Cagayan de Oro City                  %
+% Philippines       							%
+%					                            %
+% E-mail: jodierey.fernandez@ustp.edu.ph        %
+% E-mail: nolasco.venzjoshua@gmail.com			%
+%                                               %
+% Modified: September 2025                      %
+% % % % % % % % % % % % % % % % % % % % % % % % %
+
+\documentclass[12pt]{maththesis}
+\input{commands.tex}
+\input{basicinfo.tex}
+
+% Add fancyhdr package for custom page styles
+\usepackage{fancyhdr}
+
+%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+%Document Starts Here
+\begin{document}
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	% front matter
+	\pagenumbering{roman}
+	\setcounter{page}{1}
+	
+	% Define custom page style for front matter (centered page numbers at bottom)
+	\fancypagestyle{frontmatter}{
+		\fancyhf{} % clear all header and footer fields
+		\fancyfoot[C]{\thepage} % center footer for page number
+		\renewcommand{\headrulewidth}{0pt} % remove header line
+		\renewcommand{\footrulewidth}{0pt} % no footer line
+	}
+	
+	% Define custom page style for main matter (page numbers at upper right)
+	\fancypagestyle{mainmatter}{
+		\fancyhf{} % clear all header and footer fields
+		\fancyhead[R]{\thepage} % right header for page number
+		\renewcommand{\headrulewidth}{0pt} % remove header line
+		\renewcommand{\footrulewidth}{0pt} % no footer line
+	}
+	
+	% Define a plain style for front matter (keeps default behavior for preliminary pages)
+	\fancypagestyle{frontplain}{
+		\fancyhf{} % clear all header and footer fields
+		\fancyfoot[C]{\thepage} % center footer for page number
+		\renewcommand{\headrulewidth}{0pt} % remove header line
+		\renewcommand{\footrulewidth}{0pt} % no footer line
+	}
+	
+	% Apply front matter page style
+	\pagestyle{frontmatter}
+	
+	\input{titlepage}\newpage
+	
+	% Apply front matter page style starting from approval page
+	\pagestyle{frontmatter}
+	
+	\input{approval}\newpage
+	\input{abstract}\newpage
+	\input{dedication}\newpage
+	\input{acknowledgment}\newpage
+	\addcontentsline{toc}{chapter}{TABLE OF CONTENTS}
+	\tableofcontents\newpage
+	\addcontentsline{toc}{chapter}{LIST OF TABLES}
+	\listoftables \newpage
+	%\input{listofnotations}\newpage
+	\addcontentsline{toc}{chapter}{LIST OF FIGURES} 
+	\listoffigures\newpage
+	\addcontentsline{toc}{chapter}{LIST OF EQUATIONS} 
+	\listofmyequations\newpage
+	%\listofappendices\newpage
+	
+	%\input{listofequations}\newpage
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%main matter
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+	
+	% NOW redefine plain style for main matter (this affects chapter title pages from here onward)
+	\fancypagestyle{plain}{
+		\fancyhf{} % clear all header and footer fields
+		\fancyhead[R]{\thepage} % right header for page number (same as mainmatter)
+		\renewcommand{\headrulewidth}{0pt} % remove header line
+		\renewcommand{\footrulewidth}{0pt} % no footer line
+	}
+	
+	% Apply main matter page style for consistent upper right page numbering
+	\pagestyle{mainmatter}
+	
+	\include{chapter1}
+	\include{chapter2}
+	\include{chapter3}
+	\include{chapter4}
+	\include{chapter5}
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%back matter
+	\include{bibliography}
+	\include{appendix}
+	\include{dominguezcv}
+	\include{jumuadcv}
+	\include{nolascocv}
+	\include{onahoncv}
+	\include{caa}
+\end{document}
