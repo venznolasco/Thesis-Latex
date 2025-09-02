@@ -1,0 +1,24 @@
+\begin{equation}
+	\text{MOTA} = 1 - \frac{\sum_{t}(FN_t + FP_t + ID\_Sw_t)}{\sum_t GT_t}
+	\label{eq:mota}
+\end{equation}
+
+\begin{equation}
+	\text{MOTP} = \frac{\sum_{i,t}d_{i,t}}{\sum_{t}c_t}
+	\label{eq:motp}
+\end{equation}
+
+\begin{equation}
+	\text{IDP} = \frac{IDTP}{IDTP + IDFP}
+	\label{eq:idp}
+\end{equation}
+
+\begin{equation}
+	\text{IDR} = \frac{IDTP}{IDTP + IDFN}
+	\label{eq:idr}
+\end{equation}
+
+\begin{equation}
+	\text{IDF1} = \frac{2 \times IDP \times IDR}{IDP + IDR}
+	\label{eq:idf1}
+\end{equation}

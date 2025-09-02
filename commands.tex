@@ -1,0 +1,221 @@
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%LOAD PACKAGES HERE
+	\usepackage{calc}
+	\usepackage{eso-pic}
+	\usepackage{rotating}
+	\usepackage{supertabular}
+	\usepackage{adjustbox}
+	\usepackage{lscape}
+	\usepackage{afterpage}
+	\usepackage{setspace}
+	\usepackage{multirow}
+	\usepackage{subcaption}
+	\usepackage{makecell}
+	\usepackage{float}
+	\usepackage{colortbl}
+	\usepackage{textcomp}
+	\usepackage{apacite}   
+	\usepackage{natbib}
+	\usepackage{amssymb,amsmath,mathrsfs,latexsym,color,wasysym,graphicx}
+	\usepackage{chngcntr}
+	%\usepackage{graphtex}
+	%\usepackage{dcolumn}
+	%\usepackage{longtable}
+	\usepackage{hhline}
+	%\usepackage{graphtex}
+	%\usepackage[none]{hyphenat}
+	\usepackage{enumitem}
+	\usepackage{caption}    % For caption customization
+	\usepackage{titletoc}
+	\usepackage[titles]{tocloft}
+	\usepackage{xcolor,xpatch}
+	%\usepackage{hyperref}
+	\usepackage{amsfonts}
+	%Shortcut Environments
+	\usepackage{booktabs} % for better looking tables
+	\usepackage{longtable}
+	\usepackage{ragged2e}
+	\usepackage{array}
+	\usepackage{tabularx}
+	%\renewcommand*\sectionmark[1]{\markboth{#1}{}}
+	%\renewcommand*\subsectionmark[1]{\markright{#1}{}}
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%NEW COMMANDS
+	\setcounter{secnumdepth}{4}
+	\renewcommand\theparagraph{\thesubsubsection.\arabic{paragraph}}
+	\setlength\LTleft{0pt} % Align table to left margin
+	\setlength\LTright{0pt} % Align table to right margin
+	
+	\small % Set the font size for the entire table
+	\renewcommand{\arraystretch}{1.2} % Adjusts row height for readability
+	
+	\small
+	\renewcommand{\arraystretch}{1.2}
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%MINIMIZE HYPHENATION
+	%\tolerance=1
+	%\emergencystretch=\maxdimen
+	%\hyphenpenalty=10000
+	%\hbadness=10000
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%SHORTCUT COMMANDS
+	\counterwithin{figure}{chapter}
+	\counterwithin{table}{chapter}
+	\counterwithin{equation}{chapter}
+	%-------------------------------------------
+	\setlength{\cftbeforechapskip}{0.5em} % Space before chapter entries
+	\setlength{\cftbeforesecskip}{0.3em}  % Space before section entries
+	\setlength{\cftbeforesubsecskip}{0.2em} % Space before subsection entries
+	\setlength{\cftbeforetabskip}{0.5em}  % Adjusts vertical spacing before each table entry
+	\setlength{\cftbeforefigskip}{12pt}
+	% Manually adjust Table of Contents title
+	\renewcommand\contentsname{TABLE OF CONTENTS}
+	\renewcommand\listtablename{LIST OF TABLES}
+	\renewcommand\listfigurename{LIST OF FIGURES}
+	\addtocontents{toc}{{\bfseries \hfill Page No.\bigskip\par}}
+	
+	% APA 7th formatting for List of Tables and Figures
+	\addtocontents{lot}{{\bfseries No.\hfill\makebox[3in][c]{Table}\hfill Page No.\par\bigskip}}
+	\addtocontents{lof}{{\bfseries No.\hfill\makebox[4in][c]{Figure}\hfill Page No.\par\bigskip}}
+	\addtocontents{exp}{{\bfseries No.\hfill\makebox[4in][c]{Equation}\hfill Page No.\par\bigskip}}
+	\renewcommand\cftbeforechapskip{0.5em}
+	\renewcommand\cftchapfont{\bfseries}
+	\renewcommand\cftchappagefont{\mdseries}
+	\renewcommand\cftchappresnum{Chapter~}
+	\renewcommand\cftchapaftersnum{. 	}
+	\newlength\tocindent
+	\settowidth\tocindent{\cftchapfont\cftchappresnum9\cftchapaftersnum}
+	\edef\cftchapnumwidth{\the\tocindent}
+	\edef\cftsecindent{\the\tocindent}
+	\advance\tocindent2.3em
+	\edef\cftsubsecindent{\the\tocindent}
+	\advance\tocindent3.2em
+	\edef\cftsubsubsecindent{\the\tocindent}
+	% Align columns in List of Tables and List of Figures
+	\renewcommand{\cfttabnumwidth}{5em} % Width for Table Number
+	\renewcommand{\cfttabindent}{3.2em} % Indentation for Table Titles
+	\renewcommand{\cftfignumwidth}{5em} % Width for Figure Number
+	\renewcommand{\cftfigindent}{3.2em} % Indentation for Figure Titlesx
+	
+	
+	% Ensure alignment in List of Tables and List of Figures
+	\setlength{\cftbeforelottitleskip}{0.5em} % Space before List of Tables title
+	\setlength{\cftbeforeloftitleskip}{1.5em} % Space before List of Figures title
+	\setlength{\cftbeforeloftitleskip}{1.5em} % Space before List of Equations titlez
+	% Custom configuration for the Table of Contents
+	\renewcommand{\cftchapdotsep}{\cftdotsep} % Retain dots for chapters in Table of Contents
+	\renewcommand{\cftsecdotsep}{\cftdotsep} % Retain dots for sections in Table of Contents
+	
+	% Custom configuration for the List of Tables
+	\newcommand{\listoftablesnodots}{%
+		\renewcommand{\cftdotsep}{\cftnodots} % Disable dots in List of Tables
+		\listoftables
+		\renewcommand{\cftdotsep}{\cftdotsep} % Restore dots for other lists
+	}
+	
+	% Custom configuration for the List of Figures
+	\newcommand{\listoffiguresnodots}{%
+		\renewcommand{\cftdotsep}{\cftnodots} % Disable dots in List of Figures
+		\listoffigures
+		\renewcommand{\cftdotsep}{\cftdotsep} % Restore dots for other lists
+	}
+	\newcommand\tocmainmatter
+	{\renewcommand\cftchappagefont{\color{white}}%
+	}
+	\xapptocmd\mainmatter{\addtocontents{toc}{\protect\tocmainmatter}}{}{}
+	
+	% Custom command to create the list of equations
+	\newcommand{\listequationsname}{\centering\textbf{LIST OF EQUATIONS}}
+	\newlistof{myequations}{exp}{\listequationsname}
+	\setlength{\cftbeforemyequationsskip}{2em}
+	\setlength{\cftmyequationsnumwidth}{4.2em} % Adjust the width of the number column
+	\setlength{\cftmyequationsindent}{3.2em} % Adjust the indentation of the entries
+	
+	% Redefine how equations are numbered in the list
+	\renewcommand{\theequation}{\thechapter.\arabic{equation}}  % Format equation numbers as chapter.section.equation
+	
+	% Redefine \myequation to work with the new format and add the equation to the list
+	\newcommand{\myequation}[1]{%
+		\addcontentsline{exp}{myequations}{\protect\numberline{\theequation}#1}\par
+	}
+	
+	% Adjustments to the List of Equations format
+	\setlength{\cftmyequationsnumwidth}{4.2em} % Adjust the width of the number column
+	\setlength{\cftmyequationsindent}{3.2em} % Adjust the indentation of the entries
+	
+	\newif\ifschaptertoc
+	\makeatletter
+	\renewcommand\@makeschapterhead[1]%
+	{{\parindent \z@ \centering
+			\normalfont
+			\interlinepenalty\@M
+			\normalfont \bfseries  #1\par\nobreak
+			\vskip 20\p@
+		}%
+		\@mkboth{\MakeUppercase{#1}}{\MakeUppercase{#1}}%
+		\ifschaptertoc
+		\addcontentsline{toc}{chapter}{#1}%
+		\fi
+	}
+	\makeatother
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	%Shortcut Environments
+	\usepackage[left=1.5in,top=1.5in,right=1.0in,bottom=1.0in]{geometry}
+	%\renewcommand*\sectionmark[1]{\markboth{#1}{}}
+	%\renewcommand*\subsectionmark[1]{\markright{#1}{}}
+	
+	% APA 7th Edition caption settings for tables
+	\captionsetup[table]{
+		position=above,           % Caption above table
+		labelsep=space,          
+		textfont=it,              % Italic text for title
+		labelfont=bf,             % Bold for "Table X" part
+		justification=raggedright, % Left-aligned
+		singlelinecheck=false,     % Always apply settings
+		name=Table                 % Full word "Table" (no abbreviation)
+	}
+	
+	\captionsetup[figure]{
+		position=above,
+		labelsep=space,
+		textfont=it,
+		labelfont=bf,
+		justification=raggedright,
+		singlelinecheck=false,
+		name=Figure
+	}
+	
+	% Define note command for tables and figures (APA 7th style)
+	\newcommand{\apanote}[1]{%
+		\par\vspace{0.5\baselineskip}%
+		\begin{flushleft}%	
+			\textit{Note.}~#1%
+		\end{flushleft}%
+	}
+	
+	% Define specific note command for tables and figures
+	\newcommand{\apaspecificnote}[2]{%
+		\par%
+		\begin{flushleft}%
+			$^{#1}$#2%
+		\end{flushleft}%
+	}
+	
+	% Define probability note command for tables
+	\newcommand{\apapvalue}[1]{%
+		\par%
+		\begin{flushleft}%
+			$^{*}$\textit{p} < #1%
+		\end{flushleft}%
+	}
+	
+	% Ensure tables use the preferred APA sans-serif font
+	\let\oldtabular\tabular
+	\let\endoldtabular\endtabular
+	\renewenvironment{tabular}{\oldtabular}{\endoldtabular}
+	
+	% For longtable environment - apply APA styling
+	\let\oldlongtable\longtable
+	\let\endoldlongtable\endlongtable
+	\renewenvironment{longtable}{\oldlongtable}{\endoldlongtable}
+	%- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
