@@ -1,0 +1,57 @@
+{\bfseries No.\hfill \makebox [4in][c]{Figure}\hfill Page No.\par \vspace \bigskipamount }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Conceptual Framework}}{38}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Modified Waterfall Model}}{39}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The Retail Shop in Market City, Agora, Lapasan}}{40}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Chosen Camera Views Inside the Gift Shop}}{42}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Context-Level Diagram for Customers}}{51}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Context-Level Diagram for Retail Store Owners/Managers}}{51}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Data Flow Diagram for Customers}}{52}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Data Flow Diagram for Retail Store Owners/Managers}}{53}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Use Case Diagram for Customers}}{54}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Use Case Diagram for Retail Store Owners/Managers}}{55}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Activity Diagram for Customers}}{56}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Activity Diagram for Retail Store Owners/Managers}}{57}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Insight Generation Activity Diagram}}{58}{}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces System Architecture}}{62}{}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Steps in Implementing SUBAY}}{63}{}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces The Architecture of YOLO CNN \citep {Artamonov2018}}}{66}{}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Classifying Customers Diagram}}{67}{}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces DeepSORT: SORT with a Deep Association Metric \citep {Admin2023}}}{69}{}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Tracking Customer IDs}}{70}{}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces A Schematic of the Proposed Building Block for OSNet. R: Receptive field size. \citep {Boujou2022}}}{71}{}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Customer Counting Process}}{72}{}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Customer Counting Inside Zone Process}}{74}{}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Heat Map Generation Process}}{75}{}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Customer Analytics Process}}{77}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sample Detection Outputs using YOLOv10x Across Different Camera Angles}}{86}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces YOLOv10 F1 Curve}}{89}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Consistent and Inconsistent ID Assignments during DeepSORT Tracking}}{90}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Sample Customers in the Re-identification Dataset Across Different Camera Views}}{93}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Re-Identification Case A: Perfect Re-Identification Across All Camera Views}}{95}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Re-Identification Case B: Near-complete Re-Identification Affected by Shelf Occlusion}}{95}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Re-Identification Case C: Partial Re-Identification with ID Switches in Overlapping Views}}{96}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Sample Frame Showing Total Customer Count and Current Count in the Store}}{97}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Heatmap Overlay Indicating Customer Density and Dwell Time}}{100}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Intersection over Union (IoU) per Frame}}{101}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Center Distance per Frame}}{102}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Performance of the YOLOv10 + DeepSORT + Omni-Scale Re-ID System}}{103}{}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Welcome Page}}{107}{}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Login Page}}{108}{}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Dashboard Page}}{109}{}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Live Analytics Page}}{111}{}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Heat Mapping Page}}{112}{}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Post Analytics Page}}{113}{}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Insights Page}}{114}{}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Insight Generation}}{115}{}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Sample Generated Analytics Report Output}}{116}{}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Sample Report’s Results}}{118}{}%
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Sample Report’s Conclusions}}{119}{}%
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Sample Report’s Recommendations}}{120}{}%
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Functional Test Result of Store Owner/Manager}}{124}{}%
+\contentsline {figure}{\numberline {4.26}{\ignorespaces System Usability Scale (SUS) Result}}{125}{}%
+\addvspace {10\p@ }
+\contentsfinish 

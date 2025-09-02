@@ -1,0 +1,131 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\astroncite{Admin}{2023}]{Admin2023}
+Admin (2023).
+\newblock {DeepSORT: SORT with a Deep Association Metric}.
+
+\bibitem[\protect\astroncite{Amosa et~al.}{2023}]{Amosa2023}
+Amosa, T.~I., Sebastian, P., Izhar, L.~I., Ibrahim, O., Ayinla, L.~S.,
+  Bahashwan, A.~A., Bala, A., and Samaila, Y.~A. (2023).
+\newblock Multi-camera multi-object tracking: A review of current trends and
+  future advances.
+\newblock {\em Neurocomputing}, 552(126558):126558.
+
+\bibitem[\protect\astroncite{Artamonov and Yakimov}{2018}]{Artamonov2018}
+Artamonov, N. and Yakimov, P. (2018).
+\newblock Towards real-time traffic sign recognition via yolo on a mobile gpu.
+\newblock {\em Journal of Physics: Conference Series}, 1096(1):012086.
+
+\bibitem[\protect\astroncite{Boujou}{2022}]{Boujou2022}
+Boujou, M. (2022).
+\newblock Omni-scale feature learning for person re-identification.
+\newblock Accessed: 2025-04-23.
+
+\bibitem[\protect\astroncite{BPlanAI}{2025}]{BPlanAI2025}
+BPlanAI (2025).
+\newblock {What are the Top 7 KPIs for an In-Store Marketing Agency Business?}
+
+\bibitem[\protect\astroncite{Brooke}{1995}]{Brooke1995}
+Brooke, J. (1995).
+\newblock Sus: A quick and dirty usability scale.
+\newblock {\em Usability Eval. Ind.}, 189.
+
+\bibitem[\protect\astroncite{Cabahug et~al.}{2023}]{Cabahug2023}
+Cabahug, J.~L., Gulle, A.~G., Macarayo, D., and Perez, L.~D. (2023).
+\newblock Customer counting and mapping for intelligent retail environment
+  using computer vision.
+
+\bibitem[\protect\astroncite{Carden}{2025}]{Carden2025}
+Carden, F. (2025).
+\newblock {Usability}.
+
+\bibitem[\protect\astroncite{Chen et~al.}{2022}]{Chen2022}
+Chen, X., Jia, Y., Tong, X., and Li, Z. (2022).
+\newblock Research on pedestrian detection and deepsort tracking in front of
+  intelligent vehicle based on deep learning.
+\newblock {\em Sustainability}, 14(15):9281.
+
+\bibitem[\protect\astroncite{Cobos et~al.}{2019}]{Cobos2019}
+Cobos, R., Hernandez, J., and Abad, A.~G. (2019).
+\newblock Retail traffic-flow analysis using a fast multi-object detection and
+  tracking system.
+\newblock pages 29--39.
+
+\bibitem[\protect\astroncite{CountTrack}{2025}]{CountTrack2025}
+CountTrack (2025).
+\newblock {Dwell Time: Understanding customer behavior and increasing sales in
+  retail}.
+
+\bibitem[\protect\astroncite{Erlina and Fikri}{2023}]{Erlina2023}
+Erlina, T. and Fikri, M. (2023).
+\newblock A yolo algorithm-based visitor detection system for small retail
+  stores using single board computer.
+\newblock {\em Journal of Applied Engineering and Technological Science
+  (JAETS)}, 4(2):908--920.
+
+\bibitem[\protect\astroncite{Fei and Han}{2023}]{Fei2023}
+Fei, L. and Han, B. (2023).
+\newblock Multi-object multi-camera tracking based on deep learning for
+  intelligent transportation: A review.
+\newblock {\em Sensors}, 23(8).
+
+\bibitem[\protect\astroncite{{GeeksforGeeks}}{2025}]{GeeksforGeeks2025}
+{GeeksforGeeks} (2025).
+\newblock Residual networks (resnet) – deep learning.
+\newblock Accessed: 2025-04-23.
+
+\bibitem[\protect\astroncite{Han et~al.}{2023}]{Han2023}
+Han, X., You, Q., Wang, C., Zhang, Z., Chu, P., Hu, H., Wang, J., and Liu, Z.
+  (2023).
+\newblock Mmptrack: Large-scale densely annotated multi-camera multiple people
+  tracking benchmark.
+\newblock In {\em 2023 IEEE/CVF Winter Conference on Applications of Computer
+  Vision (WACV)}, pages 4849--4858.
+
+\bibitem[\protect\astroncite{Kim et~al.}{2019}]{Kim2019}
+Kim, J., Hwangbo, H., Kim, S.~J., and Kim, S. (2019).
+\newblock Location-based tracking data and customer movement pattern analysis
+  for sustainable fashion business.
+\newblock {\em Sustainability}, 11(22):6209.
+
+\bibitem[\protect\astroncite{Kulkarni and Bansal}{2023}]{Kulkarni2023}
+Kulkarni, N. and Bansal, S. (2023).
+\newblock Utilizing gen ai and computer vision for applications in the retail
+  sector.
+\newblock {\em J Arti Inte \& Cloud Comp}, pages 1--7.
+
+\bibitem[\protect\astroncite{Li and YanPiao}{2023}]{Li2023}
+Li, J. and YanPiao, N. (2023).
+\newblock Cross-camera multi-object tracking based on person re-identification
+  and spatial-temporal constraints.
+\newblock {\em J. Phys. Conf. Ser.}, 2492(1):012032.
+
+\bibitem[\protect\astroncite{Shili et~al.}{2024}]{Shili2024}
+Shili, M., Jayasingh, S., and Hammedi, S. (2024).
+\newblock Advanced customer behavior tracking and heatmap analysis with yolov5
+  and deepsort in retail environment.
+\newblock {\em Electronics}, 13(23):4730.
+
+\bibitem[\protect\astroncite{Ultralytics}{2025}]{Ultralytics2025}
+Ultralytics (2025).
+\newblock Model comparisons: Choose the best object detection model for your
+  project.
+
+\bibitem[\protect\astroncite{Xie et~al.}{2024}]{Xie2024}
+Xie, Z., Ni, Z., Yang, W., Zhang, Y., Chen, Y., Zhang, Y., and Ma, X. (2024).
+\newblock A robust online multi-camera people tracking system with geometric
+  consistency and state-aware re-id correction.
+\newblock pages 7007--7016.
+
+\bibitem[\protect\astroncite{Xu et~al.}{2021}]{Xu2021}
+Xu, Y., Jiang, Z., Men, A., Wang, H., and Luo, H. (2021).
+\newblock Multi-view feature fusion for person re-identification.
+\newblock {\em Knowl. Based Syst.}, 229(107344):107344.
+
+\bibitem[\protect\astroncite{Zheng et~al.}{2015}]{Zheng2015}
+Zheng, L., Shen, L., Tian, L., Wang, S., Wang, J., and Tian, Q. (2015).
+\newblock Scalable person re-identification: A benchmark.
+\newblock In {\em 2015 IEEE International Conference on Computer Vision
+  (ICCV)}, pages 1116--1124.
+
+\end{thebibliography}

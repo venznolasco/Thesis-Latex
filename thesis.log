@@ -1,0 +1,6797 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.27)  26 MAY 2025 22:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
+(maththesis.cls
+Document Class: maththesis 
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb
+.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfont
+s.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.
+sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.
+sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.s
+ty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.s
+ty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.s
+ty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count269
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count270
+\leftroot@=\count271
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count272
+\DOTSCASE@=\count273
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count274
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count275
+\dotsspace@=\muskip17
+\c@parentequation=\count276
+\dspbrk@lvl=\count277
+\tag@help=\toks19
+\row@=\count278
+\column@=\count279
+\maxfields@=\count280
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirs
+t.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)) (commands.tex
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count281
+\calc@Bcount=\count282
+\calc@Adimen=\dimen151
+\calc@Bdimen=\dimen152
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count283
+\calc@Cskip=\skip56
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.
+sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen153
+\ESO@tempdimb=\dimen154
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.
+sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.st
+y
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\col
+or.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdf
+tex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcol
+or.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotatin
+g.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+x.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+s.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.st
+y
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+)
+\c@r@tfl@t=\count284
+\rotFPtop=\skip57
+\rotFPbot=\skip58
+\rot@float@box=\box54
+\rot@mess@toks=\toks24
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\sup
+ertabular.sty
+Package: supertabular 2024/07/20 v4.2c the supertabular environment
+\c@tracingst=\count285
+\ST@wd=\dimen157
+\ST@rightskip=\skip59
+\ST@leftskip=\skip60
+\ST@parfillskip=\skip61
+\ST@pageleft=\dimen158
+\ST@headht=\dimen159
+\ST@tailht=\dimen160
+\ST@pagesofar=\dimen161
+\ST@pboxht=\dimen162
+\ST@rowht=\dimen163
+\ST@prevht=\dimen164
+\ST@toadd=\dimen165
+\ST@dimen=\dimen166
+\ST@pbox=\box55
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjust
+box.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.
+sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyva
+l.tex
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvuti
+ls.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count286
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcal
+c.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimcl
+ip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\colle
+ctbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box56
+)
+\tc@llx=\dimen167
+\tc@lly=\dimen168
+\tc@urx=\dimen169
+\tc@ury=\dimen170
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdf
+tex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen171
+\adjbox@Height=\dimen172
+\adjbox@Depth=\dimen173
+\adjbox@Totalheight=\dimen174
+\adjbox@pwidth=\dimen175
+\adjbox@pheight=\dimen176
+\adjbox@pdepth=\dimen177
+\adjbox@ptotalheight=\dimen178
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddp
+age.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count287
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidt
+h.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box57
+\sift@deathcycles=\count288
+\@vwid@loff=\dimen179
+\@vwid@roff=\dimen180
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.
+sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.
+sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks27
+\AP@partial=\box58
+\AP@footins=\box59
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspac
+e.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multiro
+w.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count289
+\multirow@dima=\skip63
+\bigstrutjot=\dimen181
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapti
+on.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.
+sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3
+.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen182
+\captionmargin=\dimen183
+\caption@leftmargin=\dimen184
+\caption@rightmargin=\dimen185
+\caption@width=\dimen186
+\caption@indent=\dimen187
+\caption@parindent=\dimen188
+\caption@hangindent=\dimen189
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count292
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count293
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecel
+l.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen190
+\ar@mcellbox=\box60
+\extrarowheight=\dimen191
+\NC@list=\toks28
+\extratabsurround=\skip64
+\backup@length=\skip65
+\ar@cellbox=\box61
+)
+\rotheadsize=\dimen192
+\c@nlinenum=\count294
+\TeXr@lab=\toks29
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count295
+\float@exts=\toks30
+\float@box=\box62
+\@float@everytoks=\toks31
+\@floatcapt=\box63
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortb
+l.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+\everycr=\toks32
+\minrowclearance=\skip66
+\rownum=\count296
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.st
+y
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.
+sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count297
+\bibleftmargin=\skip67
+\bibindent=\skip68
+\bibparsep=\skip69
+\bibitemsep=\skip70
+\biblabelsep=\skip71
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.st
+y
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip72
+\bibsep=\skip73
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citeauthor on input line 712.
+LaTeX Info: Redefining \citeyear on input line 735.
+\c@NAT@ctr=\count298
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsf
+s.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.st
+y
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.
+sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcnt
+r.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumite
+m.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip74
+\enit@outerparindent=\dimen193
+\enit@toks=\toks33
+\enit@inbox=\box64
+\enit@count@id=\count299
+\enitdp@description=\count300
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titleto
+c.sty
+Package: titletoc 2023/10/27 v2.16 TOC entries
+\ttl@leftsep=\dimen194
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.
+sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip75
+\cftbeforetoctitleskip=\skip76
+\cftaftertoctitleskip=\skip77
+\cftbeforepartskip=\skip78
+\cftpartnumwidth=\skip79
+\cftpartindent=\skip80
+\cftbeforechapskip=\skip81
+\cftchapindent=\skip82
+\cftchapnumwidth=\skip83
+\cftbeforesecskip=\skip84
+\cftsecindent=\skip85
+\cftsecnumwidth=\skip86
+\cftbeforesubsecskip=\skip87
+\cftsubsecindent=\skip88
+\cftsubsecnumwidth=\skip89
+\cftbeforesubsubsecskip=\skip90
+\cftsubsubsecindent=\skip91
+\cftsubsubsecnumwidth=\skip92
+\cftbeforeparaskip=\skip93
+\cftparaindent=\skip94
+\cftparanumwidth=\skip95
+\cftbeforesubparaskip=\skip96
+\cftsubparaindent=\skip97
+\cftsubparanumwidth=\skip98
+\cftbeforeloftitleskip=\skip99
+\cftafterloftitleskip=\skip100
+\cftbeforefigskip=\skip101
+\cftfigindent=\skip102
+\cftfignumwidth=\skip103
+\c@lofdepth=\count301
+\c@lotdepth=\count302
+\cftbeforelottitleskip=\skip104
+\cftafterlottitleskip=\skip105
+\cftbeforetabskip=\skip106
+\cfttabindent=\skip107
+\cfttabnumwidth=\skip108
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.st
+y
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.s
+ty
+Package: expl3 2024-08-30 L3 programming layer (loader) 
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
+end-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count303
+\l__pdf_internal_box=\box65
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpars
+e\xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbo
+x.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count304
+))
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktab
+s.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen195
+\lightrulewidth=\dimen196
+\cmidrulewidth=\dimen197
+\belowrulesep=\dimen198
+\belowbottomsep=\dimen199
+\aboverulesep=\dimen256
+\abovetopsep=\dimen257
+\cmidrulesep=\dimen258
+\cmidrulekern=\dimen259
+\defaultaddspace=\dimen260
+\@cmidla=\count305
+\@cmidlb=\count306
+\@aboverulesep=\dimen261
+\@belowrulesep=\dimen262
+\@thisruleclass=\count307
+\@lastruleclass=\count308
+\@thisrulewidth=\dimen263
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.
+sty
+Package: longtable 2024-04-26 v4.20 Multi-page Table package (DPC)
+\LTleft=\skip109
+\LTright=\skip110
+\LTpre=\skip111
+\LTpost=\skip112
+\LTchunksize=\count309
+\LTcapwidth=\dimen264
+\LT@head=\box66
+\LT@firsthead=\box67
+\LT@foot=\box68
+\LT@lastfoot=\box69
+\LT@gbox=\box70
+\LT@cols=\count310
+\LT@rows=\count311
+\c@LT@tables=\count312
+\c@LT@chunks=\count313
+\LT@p@ftn=\toks34
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2
+e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip113
+\RaggedLeftLeftskip=\skip114
+\RaggedRightLeftskip=\skip115
+\CenteringRightskip=\skip116
+\RaggedLeftRightskip=\skip117
+\RaggedRightRightskip=\skip118
+\CenteringParfillskip=\skip119
+\RaggedLeftParfillskip=\skip120
+\RaggedRightParfillskip=\skip121
+\JustifyingParfillskip=\skip122
+\CenteringParindent=\skip123
+\RaggedLeftParindent=\skip124
+\RaggedRightParindent=\skip125
+\JustifyingParindent=\skip126
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.s
+ty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen265
+\TX@old@table=\dimen266
+\TX@old@col=\dimen267
+\TX@target=\dimen268
+\TX@delta=\dimen269
+\TX@cols=\count314
+\TX@ftn=\toks35
+)
+\tocindent=\skip127
+\c@myequations=\count315
+\cftbeforemyequationsskip=\skip128
+\cftmyequationsindent=\skip129
+\cftmyequationsnumwidth=\skip130
+\c@expdepth=\count316
+\cftbeforeexptitleskip=\skip131
+\cftafterexptitleskip=\skip132
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometr
+y.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.s
+ty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.st
+y
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count317
+\Gm@cntv=\count318
+\c@Gm@tempcnt=\count319
+\Gm@bindingoffset=\dimen270
+\Gm@wd@mp=\dimen271
+\Gm@odd@mp=\dimen272
+\Gm@even@mp=\dimen273
+\Gm@layoutwidth=\dimen274
+\Gm@layoutheight=\dimen275
+\Gm@layouthoffset=\dimen276
+\Gm@layoutvoffset=\dimen277
+\Gm@dimlist=\toks36
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometr
+y.cfg))) (basicinfo.tex)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhd
+r.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip133
+\f@nch@offset@elh=\skip134
+\f@nch@offset@erh=\skip135
+\f@nch@offset@olh=\skip136
+\f@nch@offset@orh=\skip137
+\f@nch@offset@elf=\skip138
+\f@nch@offset@erf=\skip139
+\f@nch@offset@olf=\skip140
+\f@nch@offset@orf=\skip141
+\f@nch@height=\skip142
+\f@nch@footalignment=\skip143
+\f@nch@widthL=\skip144
+\f@nch@widthC=\skip145
+\f@nch@widthR=\skip146
+\@temptokenb=\toks37
+) (thesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (bibliography.aux) (appendix.aux) (dominguezcv.aux)
+(jumuadcv.aux) (nolascocv.aux) (onahoncv.aux) (caa.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count320
+\scratchdimen=\dimen278
+\scratchbox=\box71
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen279
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks39
+)
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\eps
+topdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaptio
+n.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+\c@maskedRefs=\count326
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/apacite\english.
+apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(108.405pt, 614.295pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=614.295pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(titlepage.tex)
+
+[1
+
+
+{C:/Users/ACER NITRO 5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(approval.tex
+Overfull \hbox (3.87137pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/it/10.95 TOMER TRACK-ING US-ING YOLOv10, Deep-SORT, AND OS-Net FOR R
+E-IDENTIFICA-
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 25
+.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.f
+d
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 25
+.
+ (C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 25
+.
+
+(C:\Users\ACER NITRO 5\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+))
+
+
+
+pdfTeX warning: pdflatex.exe (file ./Header.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<Header.pdf, id=7, 1315.34698pt x 239.4278pt>
+File: Header.pdf Graphic file (type pdf)
+<use Header.pdf>
+Package pdftex.def Info: Header.pdf  used on input line 61.
+(pdftex.def)             Requested size: 430.00462pt x 78.26978pt.
+[2
+
+ <./Header.pdf>] (abstract.tex)
+
+[3] (dedication.tex
+Overfull \hbox (5.84676pt too wide) in paragraph at lines 17--18
+[]\OT1/cmr/bx/it/12 Venz \OT1/cmr/m/n/12 also ex-tends his ded-i-ca-tion to his
+ mother, \OT1/cmr/bx/it/12 Venice\OT1/cmr/m/n/12 , grand-mother, \OT1/cmr/bx/it
+/12 Tessie\OT1/cmr/m/n/12 ,
+ []
+
+
+
+[4])
+
+[5] (acknowledgment.tex
+
+[6
+
+])
+
+[7] (thesis.toc
+Overfull \hbox (2.58592pt too wide) detected at line 11
+\OT1/cmr/bx/n/12 Chapter 1.  
+ []
+
+
+Overfull \hbox (2.58592pt too wide) detected at line 18
+\OT1/cmr/bx/n/12 Chapter 2.  
+ []
+
+
+Overfull \hbox (2.58592pt too wide) detected at line 26
+\OT1/cmr/bx/n/12 Chapter 3.  
+ []
+
+
+
+[8
+
+]
+Overfull \hbox (2.58592pt too wide) detected at line 51
+\OT1/cmr/bx/n/12 Chapter 4.  
+ []
+
+
+Overfull \hbox (4.12971pt too wide) in paragraph at lines 59--59
+ [][] []\OT1/cmr/m/n/12 Evaluation of Multi-Object Track-ing Ac-cu-racy and Per
+- 
+ []
+
+
+
+[9]
+Overfull \hbox (17.12402pt too wide) in paragraph at lines 67--67
+ [][] []\OT1/cmr/m/n/12 Functional and Us-abil-ity Test-ing Re-sults for Store 
+Owner/  
+ []
+
+
+Overfull \hbox (2.58592pt too wide) detected at line 68
+\OT1/cmr/bx/n/12 Chapter 5.  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+
+
+[10] (thesis.lot
+Overfull \hbox (1.82686pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/cmr/m/n/12 Evaluation In-di-ca-tors for Multi-Object Track-ing (Li
+ and Yan- 
+ []
+
+)
+\tf@lot=\write4
+\openout4 = `thesis.lot'.
+
+
+
+[11
+
+] (thesis.lof
+
+[12
+
+]
+Overfull \hbox (3.28935pt too wide) in paragraph at lines 35--35
+ [][] []\OT1/cmr/m/n/12 Re-Identification Case B: Near-complete Re-Identificati
+on Af- 
+ []
+
+
+
+[13])
+\tf@lof=\write5
+\openout5 = `thesis.lof'.
+
+
+
+[14] (thesis.exp)
+\tf@exp=\write6
+\openout6 = `thesis.exp'.
+
+
+
+[15
+
+]
+\openout2 = `chapter1.aux'.
+
+ (chapter1.tex
+Chapter 1.
+
+
+[1
+
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+\openout2 = `chapter2.aux'.
+
+ (chapter2.tex
+Chapter 2.
+
+
+[11
+
+
+
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+\c@rowcount=\count327
+
+Overfull \hbox (614.295pt too wide) detected at line 112
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]|\OT1/cmr/bx/n/12 Author(s)
+ []
+
+
+Overfull \hbox (0.83044pt too wide) in paragraph at lines 115--115
+[]|\OT1/cmr/bx/n/12 Methodology| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]|\OT1/cmr/bx/n/12 Technology
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]|\OT1/cmr/bx/n/12 Findings/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]|\OT1/cmr/bx/n/12 Relevance
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 115--115
+\OT1/cmr/bx/n/12 to Cur-rent
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 111--117
+[] [] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\OT1/cmr/bx/n/12 Author(s)
+ []
+
+
+Overfull \hbox (0.83044pt too wide) in paragraph at lines 121--121
+[]|\OT1/cmr/bx/n/12 Methodology| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\OT1/cmr/bx/n/12 Technology
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\OT1/cmr/bx/n/12 Findings/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\OT1/cmr/bx/n/12 Relevance
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 121--121
+\OT1/cmr/bx/n/12 to Cur-rent
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 117--123
+[] [] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 123--128
+[] [] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 128--131
+[] [] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]|\OT1/cmr/m/n/12 Multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 multi-object
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 track-ing: A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 rent trends
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 and fu-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Se-bas-tian,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Patrick;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Izhar, Lila
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Iznita;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Ibrahim,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Oladimeji;
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Ayinla, Luk-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 man Shehu;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Ba-hash-wan,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Ab-dul-rah-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 man Ab-dul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 lah; Bala,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 Abubakar;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+[]|\OT1/cmr/m/n/12 Literature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 re-view of
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 vance-ments in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 137--138
+\OT1/cmr/m/n/12 track-ing tech-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 138--139
+[]|\OT1/cmr/m/n/12 Various MCT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 al-go-rithms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 as-so-ci-a-tion
+ []
+
+
+Underfull \hbox (badness 5036) in paragraph at lines 138--139
+\OT1/cmr/m/n/12 and oc-clu-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+[]|\OT1/cmr/m/n/12 Summarized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 out-comes
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 of 30 MCT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 al-go-rithms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 promis-ing
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 139--140
+\OT1/cmr/m/n/12 fu-ture di-rec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+[]|\OT1/cmr/m/n/12 Provides in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\OT1/cmr/m/n/12 sights into
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\OT1/cmr/m/n/12 MCT ad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\OT1/cmr/m/n/12 vance-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+\OT1/cmr/m/n/12 rel-e-vant to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+[]|\OT1/cmr/m/n/12 This study
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 pro-vides a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 the-o-ret-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 re-view of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 MCT al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 go-rithms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 but lacks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 prac-ti-cal,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 tion-based
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 val-i-da-tion in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 real-world
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+\OT1/cmr/m/n/12 re-tail en-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]|\OT1/cmr/m/n/12 Customer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 Count-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 for In-tel-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 gent Re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 En-vi-ron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 ment us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/cmr/m/n/12 Com-puter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+[]|\OT1/cmr/m/n/12 Cabahug,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 Jhon Lloyd;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 Gulle, An-
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 ferny Glenn;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 Macarayo,
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 Dave; Perez,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
+\OT1/cmr/m/n/12 Le-an-der
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 147--148
+[]|\OT1/cmr/m/n/12 Computer vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 for cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 count-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 track-ing in
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 147--148
+\OT1/cmr/m/n/12 re-tail en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+[]|\OT1/cmr/m/n/12 Computer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+\OT1/cmr/m/n/12 vi-sion tech-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+[]|\OT1/cmr/m/n/12 Achieved
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 an F1 score
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 of 95.78%,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 traf-fic, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 chal-lenges
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 149--150
+\OT1/cmr/m/n/12 in con-gested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+[]|\OT1/cmr/m/n/12 Demonstrates
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 po-ten-tial for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 us-ing com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 puter vi-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 in re-tail,
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 though with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 lim-i-ta-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+\OT1/cmr/m/n/12 in crowded
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+[]|\OT1/cmr/m/n/12 The sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 strug-gles to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 ac-cu-racy in
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 crowded and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 con-gested
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 ar-eas with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 mul-ti-ple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[]|\OT1/cmr/m/n/12 Research on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 Pedes-trian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 Deep-SORT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 Track-ing in
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 Front of an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 In-tel-li-gent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+\OT1/cmr/m/n/12 on Deep
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[]|\OT1/cmr/m/n/12 Chen,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+\OT1/cmr/m/n/12 Xuewen;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+\OT1/cmr/m/n/12 Jia, Yuan-
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 156--157
+\OT1/cmr/m/n/12 peng; Tong,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+\OT1/cmr/m/n/12 Xi-aoqi; Li,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+[]|\OT1/cmr/m/n/12 Pedestrian
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 and track-ing
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 us-ing an im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 model and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 Deep-SORT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 al-go-rithm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 for in-tel-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+\OT1/cmr/m/n/12 gent ve-hi-cle
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 158--159
+[]|\OT1/cmr/m/n/12 YOLO de-tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\OT1/cmr/m/n/12 tion model,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+\OT1/cmr/m/n/12 Deep-SORT,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+[]|\OT1/cmr/m/n/12 Enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 of small
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 and par-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 pedes-tri-ans
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 re-duced false
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+\OT1/cmr/m/n/12 de-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]|\OT1/cmr/m/n/12 The im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 prove-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 made in
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 YOLO could
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 be adapted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 to im-prove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 de-tec-tion in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+\OT1/cmr/m/n/12 re-tail en-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+[]|\OT1/cmr/m/n/12 Although
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 ef-fec-tive in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 ve-hi-cle con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 texts, the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 specif-i-cally
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 in-door re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 sce-nar-ios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 with com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 plex lay-outs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+\OT1/cmr/m/n/12 and vary-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\OT1/cmr/m/n/12 Multi-Object
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+\OT1/cmr/m/n/12 De-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+[]|\OT1/cmr/m/n/12 Cobos,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\OT1/cmr/m/n/12 Richard;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\OT1/cmr/m/n/12 Her-nan-dez,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+\OT1/cmr/m/n/12 Jef-fer-son;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[]|\OT1/cmr/m/n/12 A multiple-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/cmr/m/n/12 sys-tem was
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/cmr/m/n/12 ap-plied to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+\OT1/cmr/m/n/12 re-tail traf-fic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]|\OT1/cmr/m/n/12 Tracking-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\OT1/cmr/m/n/12 by-detection
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 168--169
+\OT1/cmr/m/n/12 paradigm, an
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\OT1/cmr/m/n/12 en-sem-ble of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+[]|\OT1/cmr/m/n/12 Successfully
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 gen-er-ated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 traffic-flow
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 heat maps,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 re-duc-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 hard-ware
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 169--170
+\OT1/cmr/m/n/12 CCTV cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]|\OT1/cmr/m/n/12 This pa-per
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 use of heat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 move-ment,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 which is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 rel-e-vant to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 un-der-stand-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 ing foot-fall
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+[]|\OT1/cmr/m/n/12 The fo-cus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 is lim-ited
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 to traf-fic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 and does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 not ex-plore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 be-hav-ior or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 in-ter-ac-tion
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 171--172
+\OT1/cmr/m/n/12 within prod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+[]|\OT1/cmr/m/n/12 A YOLO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Algorithm-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 De-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Sys-tem for
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Small Re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Stores us-ing
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 175--176
+\OT1/cmr/m/n/12 Sin-gle Board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+[]|\OT1/cmr/m/n/12 Erlina, Tati
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+\OT1/cmr/m/n/12 and Fikri,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+\OT1/cmr/m/n/12 Muham-mad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+[]|\OT1/cmr/m/n/12 YOLO-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 vis-i-tor de-tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 tion sys-tem
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 uti-lizes a sin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 gle on-board
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 com-puter to
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 mon-i-tor small
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+\OT1/cmr/m/n/12 re-tail store
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+[]|\OT1/cmr/m/n/12 YOLOv4-tiny
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+[]|\OT1/cmr/m/n/12 Achieved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 mAP of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 89.21%, en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 abling small
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 busi-ness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 own-ers to
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 179--180
+\OT1/cmr/m/n/12 and op-ti-mize
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+[]|\OT1/cmr/m/n/12 Demonstrates
+ []
+
+
+Underfull \hbox (badness 2809) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 us-ing YOLO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 re-tail, in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 di-cat-ing its
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 scal-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 for larger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/cmr/m/n/12 re-tail en-vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+[]|\OT1/cmr/m/n/12 The single-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 camera
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 sys-tem lacks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 scal-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 and may
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 not main-tain
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 ac-cu-racy in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 larger or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 more dy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 namic store
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+\OT1/cmr/m/n/12 en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+[]|\OT1/cmr/m/n/12 Multi-Object
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 Multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 Camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 Track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 Based on
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 Deep Learn-
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 185--186
+\OT1/cmr/m/n/12 li-gent Trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+[]|\OT1/cmr/m/n/12 Fei, Lun-lin,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+\OT1/cmr/m/n/12 and Han,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+[]|\OT1/cmr/m/n/12 Review of
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 187--188
+\OT1/cmr/m/n/12 MOMCT sys-
+ []
+
+
+Underfull \hbox (badness 6876) in paragraph at lines 187--188
+\OT1/cmr/m/n/12 tems with a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+\OT1/cmr/m/n/12 based de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+\OT1/cmr/m/n/12 tec-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+\OT1/cmr/m/n/12 vi-su-al-iza-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[]|\OT1/cmr/m/n/12 Analyzed
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 189--190
+\OT1/cmr/m/n/12 ob-ject de-tec-
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 189--190
+\OT1/cmr/m/n/12 met-rics, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\OT1/cmr/m/n/12 iden-ti-fied
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\OT1/cmr/m/n/12 fu-ture chal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+\OT1/cmr/m/n/12 lenges for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+[]|\OT1/cmr/m/n/12 Provides
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 foun-da-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 in-sight on
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 learn-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 MOMCT to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 other do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--191
+\OT1/cmr/m/n/12 mains such
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+[]|\OT1/cmr/m/n/12 The re-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+\OT1/cmr/m/n/12 trans-porta-
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 191--192
+\OT1/cmr/m/n/12 tion sys-tems
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 191--192
+\OT1/cmr/m/n/12 ad-dress chal-
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 191--192
+\OT1/cmr/m/n/12 tail track-ing
+ []
+
+
+Overfull \hbox (4.89513pt too wide) in paragraph at lines 195--196
+[]|\OT1/cmr/m/n/12 MMPTRACK:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 Large-scale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 Densely
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 An-no-tated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 Multi-camera
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 ple Track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+[]|\OT1/cmr/m/n/12 Han, Xi-ao-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 tian; You,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Quanzeng;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Wang,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Chunyu;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Zhang,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Zhizheng;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Chu, Peng;
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 196--197
+\OT1/cmr/m/n/12 Liu, Zicheng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+[]|\OT1/cmr/m/n/12 Creation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\OT1/cmr/m/n/12 of a large-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\OT1/cmr/m/n/12 scale dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\OT1/cmr/m/n/12 us-ing auto-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+\OT1/cmr/m/n/12 annotation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+[]|\OT1/cmr/m/n/12 3D track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 us-ing over-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 lapped and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 cal-i-brated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 depth +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 RGB cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 eras, man-ual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 re-fine-ment of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+\OT1/cmr/m/n/12 auto-generated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+[]|\OT1/cmr/m/n/12 The re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 searchers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 cre-ated a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 densely
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 ing dataset
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 and tested
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 it us-ing two
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 199--200
+\OT1/cmr/m/n/12 track-ers and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 a bench-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 sup-port-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 the re-li-able
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 eval-u-a-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 track-ers in
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 clut-tered en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 vi-ron-ments.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 po-ten-tial of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 3D-enhanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 sys-tems in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 sion, which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 is valu-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 for in-door
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+[]|\OT1/cmr/m/n/12 Densely an-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 no-tated 3D
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 data makes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 the sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 resource-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 intensive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 and im-prac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 ti-cal for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+\OT1/cmr/m/n/12 lightweight
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+[]|\OT1/cmr/m/n/12 Location-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 Cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 Move-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 Pat-tern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 Anal-y-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 for Sus-tain-
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 209--210
+\OT1/cmr/m/n/12 able Fash-ion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+[]|\OT1/cmr/m/n/12 Kim,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\OT1/cmr/m/n/12 Jonghyuk;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\OT1/cmr/m/n/12 Hwangbo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\OT1/cmr/m/n/12 Hyun-woo;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\OT1/cmr/m/n/12 Kim, Sung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+\OT1/cmr/m/n/12 Jun; Kim,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[]|\OT1/cmr/m/n/12 Indoor po-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 tion-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 wire-less sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 sors track
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 move-ment
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 pat-terns in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+\OT1/cmr/m/n/12 fash-ion re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+[]|\OT1/cmr/m/n/12 Indoor po-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\OT1/cmr/m/n/12 si-tion-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\OT1/cmr/m/n/12 de-vices, and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+\OT1/cmr/m/n/12 fin-ger-print-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 in spe-cific
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 zones im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 pacted sales
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 more than
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 213--214
+\OT1/cmr/m/n/12 time in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+[]|\OT1/cmr/m/n/12 Highlights
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 the im-por-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 tance of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 move-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 anal-y-sis for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 re-tail per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 for-mance,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 215--216
+[]|\OT1/cmr/m/n/12 The re-liance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 on wire-less
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 be-hav-ioral
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 track-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 lacks vi-sual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 con-fir-ma-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+\OT1/cmr/m/n/12 of cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+[]|\OT1/cmr/m/n/12 Utilizing
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 219--220
+\OT1/cmr/m/n/12 Gen AI and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\OT1/cmr/m/n/12 Com-puter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\OT1/cmr/m/n/12 Vi-sion for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+\OT1/cmr/m/n/12 Ap-pli-ca-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+[]|\OT1/cmr/m/n/12 Kulkarni,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\OT1/cmr/m/n/12 Nilesh D.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+\OT1/cmr/m/n/12 and Bansal,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+[]|\OT1/cmr/m/n/12 Analyse AI
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 221--222
+\OT1/cmr/m/n/12 and com-puter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/cmr/m/n/12 in-clud-ing in-
+ []
+
+
+Underfull \hbox (badness 7540) in paragraph at lines 221--222
+\OT1/cmr/m/n/12 ven-tory man-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/cmr/m/n/12 age-ment and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+\OT1/cmr/m/n/12 store lay-out
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 222--223
+[]|\OT1/cmr/m/n/12 AI, Com-puter
+ []
+
+
+Overfull \hbox (1.22571pt too wide) in paragraph at lines 223--224
+[]|\OT1/cmr/m/n/12 Demonstrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+\OT1/cmr/m/n/12 iz-ing re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+\OT1/cmr/m/n/12 lay-out op-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--224
+\OT1/cmr/m/n/12 per-son-al-ized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+[]|\OT1/cmr/m/n/12 Highlights
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 the ne-ces-sity
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 of AI adop-
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 for ad-vanced
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 track-ing and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+\OT1/cmr/m/n/12 be-hav-ior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+[]|\OT1/cmr/m/n/12 The study
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 is largely
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 con-cep-tual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 and does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 not demon-
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 strate ac-tual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 de-ploy-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 or test-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 of AI-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+\OT1/cmr/m/n/12 track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+[]|\OT1/cmr/m/n/12 Cross-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Multi-Object
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 based on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Per-son Re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Identification
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 and Spatial-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+\OT1/cmr/m/n/12 Temporal
+ []
+
+
+Underfull \hbox (badness 4391) in paragraph at lines 230--231
+\OT1/cmr/m/n/12 Yan-Piao, N.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+[]|\OT1/cmr/m/n/12 Cross-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 multi-target
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 track-ing
+ []
+
+
+Underfull \hbox (badness 7203) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 us-ing spatial-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 temporal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 con-straints
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 to im-prove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 ac-cu-racy and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+\OT1/cmr/m/n/12 re-duce oc-clu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]|\OT1/cmr/m/n/12 Spatial-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\OT1/cmr/m/n/12 temporal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\OT1/cmr/m/n/12 prob-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+[]|\OT1/cmr/m/n/12 Improved
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 per-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 tra-jec-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 cor-re-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 across cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 in re-duc-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\OT1/cmr/m/n/12 oc-clu-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]|\OT1/cmr/m/n/12 Provides
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 valu-able
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 strate-gies for
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 deal-ing with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 oc-clu-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\OT1/cmr/m/n/12 in multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+[]|\OT1/cmr/m/n/12 While ef-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 fec-tive in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 im-prov-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 ac-cu-racy,
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 the sys-tem's
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 com-plex-ity
+ []
+
+
+Underfull \hbox (badness 5245) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 and lack of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 web-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 ac-ces-si-bil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 ity limit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 its us-abil-
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 235--236
+\OT1/cmr/m/n/12 ity in re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+[]|\OT1/cmr/m/n/12 Advanced
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\OT1/cmr/m/n/12 Cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\OT1/cmr/m/n/12 Be-hav-ior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\OT1/cmr/m/n/12 Heatmap
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\OT1/cmr/m/n/12 Deep-SORT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+\OT1/cmr/m/n/12 in Re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+[]|\OT1/cmr/m/n/12 Shili, Mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\OT1/cmr/m/n/12 hamed;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\OT1/cmr/m/n/12 Jayas-ingh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\OT1/cmr/m/n/12 Su-darsan;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+\OT1/cmr/m/n/12 Hammedi,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+[]|\OT1/cmr/m/n/12 Real-time
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 video anal-y-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 of cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 move-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 and in-ter-ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 tion, vi-su-al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
+\OT1/cmr/m/n/12 ized through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+[]|\OT1/cmr/m/n/12 YOLOv5
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\OT1/cmr/m/n/12 for ob-ject
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\OT1/cmr/m/n/12 de-tec-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+\OT1/cmr/m/n/12 multi-object
+ []
+
+
+Overfull \hbox (1.22571pt too wide) in paragraph at lines 243--244
+[]|\OT1/cmr/m/n/12 Demonstrated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 ef-fec-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 track-ing of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 paths and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 en-gage-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 zones us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 heatmaps,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 pro-vid-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 ac-tion-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 in-sights for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 prod-uct
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 place-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 and store
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+\OT1/cmr/m/n/12 lay-out im-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 ef-fec-tive-ness
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 of com-puter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 vi-sion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 track-ing for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 be-hav-ior
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 anal-y-sis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 in re-tail,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 form-ing a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 foun-da-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 ap-proach
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 upon which
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 SUBAY
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 builds with
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 added multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 scal-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 web-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+[]|\OT1/cmr/m/n/12 The sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 tem does
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 not sup-port
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 scal-a-bil-ity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 and lacks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 in-te-gra-tion
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 with a cen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 tral-ized,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+\OT1/cmr/m/n/12 web-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+[]|\OT1/cmr/m/n/12 A Ro-bust
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 Camera Peo-
+ []
+
+
+Underfull \hbox (badness 5578) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 ple Track-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 Ge-o-met-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 Con-sis-tency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+\OT1/cmr/m/n/12 and State-
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 250--251
+[]|\OT1/cmr/m/n/12 Xie, Zhenyu;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 Ni, Zelin;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 Yang, Wen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 jie; Zhang,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 Yi-hang;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 Ma, Xiao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+[]|\OT1/cmr/m/n/12 Multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 peo-ple track-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 ing with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 ge-o-met-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 con-sis-tency
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+\OT1/cmr/m/n/12 and Re-ID
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+[]|\OT1/cmr/m/n/12 Geometric-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+\OT1/cmr/m/n/12 cor-rec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+[]|\OT1/cmr/m/n/12 Achieved
+ []
+
+
+Underfull \hbox (badness 5460) in paragraph at lines 253--254
+\OT1/cmr/m/n/12 HOTA score
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 254--255
+[]|\OT1/cmr/m/n/12 It high-lights
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 the im-prove-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 ment that
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 to peo-ple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 track-ing,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 which is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 rel-e-vant to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+\OT1/cmr/m/n/12 cus-tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+[]|\OT1/cmr/m/n/12 The ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 o-met-ric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 con-sis-tency
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 ap-proach re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 cal-i-bra-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 adapt-able
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 to dy-namic
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 and re-con-fig-
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 255--256
+\OT1/cmr/m/n/12 urable re-tail
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+[]|\OT1/cmr/m/n/12 Multi-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+[]|\OT1/cmr/m/n/12 Xu, Yin-
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 song; Jiang,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 Zhuqing;
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 Wang, Haiy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 ing; Luo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+\OT1/cmr/m/n/12 Haiy-ong
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+[]|\OT1/cmr/m/n/12 Fusion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+\OT1/cmr/m/n/12 multi-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+\OT1/cmr/m/n/12 fea-tures to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+\OT1/cmr/m/n/12 in per-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+[]|\OT1/cmr/m/n/12 Multi-view
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 ing (MVMP),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 Multi-view
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 Fea-ture Fu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+\OT1/cmr/m/n/12 sion Net-work
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+\OT1/cmr/m/n/12 per-for-mance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+\OT1/cmr/m/n/12 across mul-
+ []
+
+
+Underfull \hbox (badness 6332) in paragraph at lines 263--264
+\OT1/cmr/m/n/12 ti-ple cam-era
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+[]|\OT1/cmr/m/n/12 Provides
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 in-no-va-tive
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 meth-ods for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 han-dling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 view bias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 rel-e-vant to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 multi-camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 track-ing of
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 264--265
+\OT1/cmr/m/n/12 cus-tomers in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+[]|\OT1/cmr/m/n/12 The sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+\OT1/cmr/m/n/12 de-pends on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+\OT1/cmr/m/n/12 ex-ten-sive
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 131--267
+[] [] [] [] [] [] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./fig/2.1.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/2.1.pdf, id=177, 539.17432pt x 395.076pt>
+File: fig/2.1.pdf Graphic file (type pdf)
+<use fig/2.1.pdf>
+Package pdftex.def Info: fig/2.1.pdf  used on input line 278.
+(pdftex.def)             Requested size: 368.57965pt x 270.07684pt.
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38 <./fig/2.1.pdf>]
+\openout2 = `chapter3.aux'.
+
+ (chapter3.tex
+Chapter 3.
+<fig/3.1.pdf, id=203, 722.7pt x 542.025pt>
+File: fig/3.1.pdf Graphic file (type pdf)
+<use fig/3.1.pdf>
+Package pdftex.def Info: fig/3.1.pdf  used on input line 12.
+(pdftex.def)             Requested size: 303.53267pt x 227.64894pt.
+
+
+[39
+
+
+
+
+ <./fig/3.1.pdf>]
+<fig/3.2.pdf, id=225, 752.8125pt x 795.72281pt>
+File: fig/3.2.pdf Graphic file (type pdf)
+<use fig/3.2.pdf>
+Package pdftex.def Info: fig/3.2.pdf  used on input line 24.
+(pdftex.def)             Requested size: 216.81pt x 229.16313pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40 <./fig/3.2.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.3.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.3.pdf, id=237, 9468.19437pt x 9456.15034pt>
+File: fig/3.3.pdf Graphic file (type pdf)
+<use fig/3.3.pdf>
+Package pdftex.def Info: fig/3.3.pdf  used on input line 39.
+(pdftex.def)             Requested size: 433.62001pt x 433.01144pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42 <./fig/3.3.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45]
+Overfull \hbox (433.62001pt too wide) detected at line 77
+[]
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 76--81
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 81--87
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 87--90
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 90--93
+[] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+[]|\OT1/cmr/m/n/12 Retail Store
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 93--106
+[] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+Overfull \hbox (433.62001pt too wide) detected at line 116
+[]
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 115--120
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 120--126
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 126--129
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 129--132
+[] []
+ []
+
+
+Overfull \hbox (18.37129pt too wide) in alignment at lines 132--168
+[] []
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.4.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.4.pdf, id=268, 542.025pt x 168.53967pt>
+File: fig/3.4.pdf Graphic file (type pdf)
+<use fig/3.4.pdf>
+Package pdftex.def Info: fig/3.4.pdf  used on input line 184.
+(pdftex.def)             Requested size: 433.62001pt x 134.83705pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.5.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.5.pdf, id=272, 542.025pt x 110.1415pt>
+File: fig/3.5.pdf Graphic file (type pdf)
+<use fig/3.5.pdf>
+Package pdftex.def Info: fig/3.5.pdf  used on input line 193.
+(pdftex.def)             Requested size: 433.62001pt x 88.11667pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51 <./fig/3.4.pdf> <./fig/3.5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.5.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.6.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.6.pdf, id=311, 542.025pt x 311.37328pt>
+File: fig/3.6.pdf Graphic file (type pdf)
+<use fig/3.6.pdf>
+Package pdftex.def Info: fig/3.6.pdf  used on input line 206.
+(pdftex.def)             Requested size: 346.89732pt x 199.28772pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52 <./fig/3.6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.7.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.7.pdf, id=334, 542.025pt x 264.92978pt>
+File: fig/3.7.pdf Graphic file (type pdf)
+<use fig/3.7.pdf>
+Package pdftex.def Info: fig/3.7.pdf  used on input line 217.
+(pdftex.def)             Requested size: 433.62001pt x 211.95218pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53 <./fig/3.7.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.8.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.8.pdf, id=356, 477.02214pt x 400.6167pt>
+File: fig/3.8.pdf Graphic file (type pdf)
+<use fig/3.8.pdf>
+Package pdftex.def Info: fig/3.8.pdf  used on input line 229.
+(pdftex.def)             Requested size: 216.81pt x 182.07915pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54 <./fig/3.8.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.9.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/3.9.pdf, id=375, 483.03462pt x 346.74545pt>
+File: fig/3.9.pdf Graphic file (type pdf)
+<use fig/3.9.pdf>
+Package pdftex.def Info: fig/3.9.pdf  used on input line 238.
+(pdftex.def)             Requested size: 433.62001pt x 311.27438pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55 <./fig/3.9.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.10.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.10.pdf, id=394, 722.7pt x 429.77565pt>
+File: fig/3.10.pdf Graphic file (type pdf)
+<use fig/3.10.pdf>
+Package pdftex.def Info: fig/3.10.pdf  used on input line 251.
+(pdftex.def)             Requested size: 325.215pt x 193.39725pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56 <./fig/3.10.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.11.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.11.pdf, id=416, 366.09775pt x 542.025pt>
+File: fig/3.11.pdf Graphic file (type pdf)
+<use fig/3.11.pdf>
+Package pdftex.def Info: fig/3.11.pdf  used on input line 260.
+(pdftex.def)             Requested size: 173.44534pt x 256.79462pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57 <./fig/3.11.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.12.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.12.pdf, id=438, 564.5592pt x 537.06647pt>
+File: fig/3.12.pdf Graphic file (type pdf)
+<use fig/3.12.pdf>
+Package pdftex.def Info: fig/3.12.pdf  used on input line 269.
+(pdftex.def)             Requested size: 346.89732pt x 330.01938pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58 <./fig/3.12.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59]
+Overfull \hbox (3.51659pt too wide) in paragraph at lines 285--286
+[]\OT1/cmr/bx/n/12 Atmosphere Op-ti-miza-tion: \OT1/cmr/m/n/12 The sys-tem rec-
+om-mends bet-ter light-ing, cleaner
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.13.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.13.pdf, id=479, 512.41437pt x 400.20515pt>
+File: fig/3.13.pdf Graphic file (type pdf)
+<use fig/3.13.pdf>
+Package pdftex.def Info: fig/3.13.pdf  used on input line 309.
+(pdftex.def)             Requested size: 433.62001pt x 338.66763pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62 <./fig/3.13.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.14.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.14.pdf, id=518, 410.84491pt x 387.63821pt>
+File: fig/3.14.pdf Graphic file (type pdf)
+<use fig/3.14.pdf>
+Package pdftex.def Info: fig/3.14.pdf  used on input line 322.
+(pdftex.def)             Requested size: 216.81pt x 204.56003pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63 <./fig/3.14.pdf>]
+Overfull \hbox (1.48445pt too wide) in paragraph at lines 330--331
+[]\OT1/cmr/m/n/12 The de-vel-op-ment en-vi-ron-ment em-ployed two pri-mary con-
+fig-u-ra-tions: Mi-crosoft
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.15.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.15.pdf, id=547, 567.62062pt x 240.9pt>
+File: fig/3.15.pdf Graphic file (type pdf)
+<use fig/3.15.pdf>
+Package pdftex.def Info: fig/3.15.pdf  used on input line 345.
+(pdftex.def)             Requested size: 433.62001pt x 184.03793pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66 <./fig/3.15.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.16.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.16.pdf, id=555, 530.29115pt x 396.75226pt>
+File: fig/3.16.pdf Graphic file (type pdf)
+<use fig/3.16.pdf>
+Package pdftex.def Info: fig/3.16.pdf  used on input line 356.
+(pdftex.def)             Requested size: 325.215pt x 243.32011pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67 <./fig/3.16.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.17.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.17.pdf, id=593, 602.25pt x 223.78606pt>
+File: fig/3.17.pdf Graphic file (type pdf)
+<use fig/3.17.pdf>
+Package pdftex.def Info: fig/3.17.pdf  used on input line 371.
+(pdftex.def)             Requested size: 325.215pt x 120.84949pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68]
+Overfull \hbox (3.23862pt too wide) in paragraph at lines 375--376
+[]\OT1/cmr/m/n/12 As shown in Fig-ure 3.17[], de-tec-tion out-puts from YOLOv10
+ were passed through
+ []
+
+<figs/3.18.pdf, id=597, 722.7pt x 542.025pt>
+File: figs/3.18.pdf Graphic file (type pdf)
+<use figs/3.18.pdf>
+Package pdftex.def Info: figs/3.18.pdf  used on input line 382.
+(pdftex.def)             Requested size: 433.62001pt x 325.2175pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69 <./fig/3.17.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70 <./figs/3.18.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.19.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.19.pdf, id=641, 302.67287pt x 268.03865pt>
+File: fig/3.19.pdf Graphic file (type pdf)
+<use fig/3.19.pdf>
+Package pdftex.def Info: fig/3.19.pdf  used on input line 391.
+(pdftex.def)             Requested size: 216.81pt x 191.9979pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71 <./fig/3.19.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.20.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.20.pdf, id=648, 482.48254pt x 542.025pt>
+File: fig/3.20.pdf Graphic file (type pdf)
+<use fig/3.20.pdf>
+Package pdftex.def Info: fig/3.20.pdf  used on input line 406.
+(pdftex.def)             Requested size: 216.81pt x 243.56989pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72 <./fig/3.20.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.21.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.21.pdf, id=677, 722.7pt x 495.5614pt>
+File: fig/3.21.pdf Graphic file (type pdf)
+<use fig/3.21.pdf>
+Package pdftex.def Info: fig/3.21.pdf  used on input line 421.
+(pdftex.def)             Requested size: 325.215pt x 223.00056pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73]
+<figs/3.22.pdf, id=681, 722.7pt x 542.025pt>
+File: figs/3.22.pdf Graphic file (type pdf)
+<use figs/3.22.pdf>
+Package pdftex.def Info: figs/3.22.pdf  used on input line 430.
+(pdftex.def)             Requested size: 433.62001pt x 325.2175pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74 <./fig/3.21.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75 <./figs/3.22.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76]
+
+pdfTeX warning: pdflatex.exe (file ./fig/3.23.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/3.23.pdf, id=728, 667.40338pt x 517.32272pt>
+File: fig/3.23.pdf Graphic file (type pdf)
+<use fig/3.23.pdf>
+Package pdftex.def Info: fig/3.23.pdf  used on input line 449.
+(pdftex.def)             Requested size: 433.62001pt x 336.12158pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77 <./fig/3.23.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79]
+Overfull \hbox (7.11612pt too wide) in paragraph at lines 479--479
+[]\OT1/cmr/bx/n/12 Evaluating Multi-Object Track-ing Ac-cu-racy and Per-for-man
+ce Met-
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
+Overfull \hbox (433.62001pt too wide) detected at line 484
+[]
+ []
+
+
+Overfull \hbox (12.54515pt too wide) in alignment at lines 483--488
+[] [] [] []
+ []
+
+
+Overfull \hbox (12.54515pt too wide) in alignment at lines 488--495
+[] [] [] []
+ []
+
+
+Overfull \hbox (12.54515pt too wide) in alignment at lines 495--498
+[] [] [] []
+ []
+
+
+Overfull \hbox (12.54515pt too wide) in alignment at lines 498--501
+[] [] [] []
+ []
+
+
+Overfull \hbox (5.28806pt too wide) in paragraph at lines 534--535
+ []|\OT1/cmr/m/n/12 Identification 
+ []
+
+
+Overfull \hbox (5.28806pt too wide) in paragraph at lines 542--543
+ []|\OT1/cmr/m/n/12 Identification 
+ []
+
+
+Overfull \hbox (5.28806pt too wide) in paragraph at lines 551--552
+ []|\OT1/cmr/m/n/12 Identification 
+ []
+
+
+Overfull \hbox (12.54515pt too wide) in alignment at lines 501--560
+[] [] [] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83]
+\openout2 = `chapter4.aux'.
+
+ (chapter4.tex
+Chapter 4.
+
+
+[84
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\OT1/cmr/bx/n/12 Latency
+ []
+
+
+Overfull \hbox (12.89212pt too wide) in paragraph at lines 18--25
+ [][] 
+ []
+
+
+Overfull \hbox (2.33722pt too wide) in paragraph at lines 29--30
+[]\OT1/cmr/m/n/12 To val-i-date this model's real-world ca-pac-ity to de-tect c
+us-tomers, the re-searchers
+ []
+
+<fig/4.1.pdf, id=779, 1445.4pt x 813.0375pt>
+File: fig/4.1.pdf Graphic file (type pdf)
+<use fig/4.1.pdf>
+Package pdftex.def Info: fig/4.1.pdf  used on input line 36.
+(pdftex.def)             Requested size: 433.62001pt x 243.91313pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85]
+Overfull \hbox (433.62001pt too wide) detected at line 45
+[]
+ []
+
+
+Overfull \hbox (2.31854pt too wide) in alignment at lines 44--49
+[] [] []
+ []
+
+
+Overfull \hbox (2.31854pt too wide) in alignment at lines 49--55
+[] [] []
+ []
+
+
+Overfull \hbox (2.31854pt too wide) in alignment at lines 55--58
+[] [] []
+ []
+
+
+Overfull \hbox (2.31854pt too wide) in alignment at lines 58--61
+[] [] []
+ []
+
+
+Overfull \hbox (2.31854pt too wide) in alignment at lines 61--74
+[] [] []
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86 <./fig/4.1.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/cmr/bx/n/12 False
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/cmr/bx/n/12 True
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\OT1/cmr/bx/n/12 Neg-a-
+ []
+
+
+Overfull \hbox (5.60127pt too wide) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 Precision| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 F1
+ []
+
+
+Overfull \hbox (13.05106pt too wide) in paragraph at lines 114--114
+[]|\OT1/cmr/bx/n/12 AVERAGE| 
+ []
+
+<fig/4.2.pdf, id=797, 1011.78pt x 614.295pt>
+File: fig/4.2.pdf Graphic file (type pdf)
+<use fig/4.2.pdf>
+Package pdftex.def Info: fig/4.2.pdf  used on input line 123.
+(pdftex.def)             Requested size: 303.53267pt x 184.28992pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89 <./fig/4.2.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.3.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.3.pdf, id=809, 867.36105pt x 578.24069pt>
+File: fig/4.3.pdf Graphic file (type pdf)
+<use fig/4.3.pdf>
+Package pdftex.def Info: fig/4.3.pdf  used on input line 136.
+(pdftex.def)             Requested size: 433.62001pt x 289.08435pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90 <./fig/4.3.pdf>]
+Overfull \hbox (7.05699pt too wide) in paragraph at lines 162--162
+[]|\OT1/cmr/bx/n/12 Scenario| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\OT1/cmr/bx/n/12 Total
+ []
+
+
+Overfull \hbox (3.69586pt too wide) in paragraph at lines 162--162
+\OT1/cmr/bx/n/12 Tracked
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+\OT1/cmr/bx/n/12 Cus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\OT1/cmr/bx/n/12 ID
+ []
+
+
+Overfull \hbox (8.1806pt too wide) in paragraph at lines 162--162
+\OT1/cmr/bx/n/12 Switches| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]|\OT1/cmr/bx/n/12 Re-ID
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+\OT1/cmr/bx/n/12 Suc-cess
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+\OT1/cmr/bx/n/12 Rate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]|\OT1/cmr/m/n/12 Normal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\OT1/cmr/m/n/12 traf-fic
+ []
+
+
+Overfull \hbox (2.68846pt too wide) in paragraph at lines 166--166
+[]|\OT1/cmr/m/n/12 Crowded
+ []
+
+
+Overfull \hbox (10.91338pt too wide) in paragraph at lines 168--168
+[]|\OT1/cmr/m/n/12 Occlusion-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\OT1/cmr/m/n/12 heavy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[]|\OT1/cmr/m/n/12 Frequent ob-struc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+\OT1/cmr/m/n/12 tion by shelves,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\OT1/cmr/m/n/12 Camera
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\OT1/cmr/m/n/12 tran-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+\OT1/cmr/m/n/12 si-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[]|\OT1/cmr/m/n/12 Movement across
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+\OT1/cmr/m/n/12 over-lap-ping fields
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.4.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.4.pdf, id=822, 845.40843pt x 511.3504pt>
+File: fig/4.4.pdf Graphic file (type pdf)
+<use fig/4.4.pdf>
+Package pdftex.def Info: fig/4.4.pdf  used on input line 187.
+(pdftex.def)             Requested size: 325.215pt x 196.70276pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93 <./fig/4.4.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.5.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.5.pdf, id=853, 770.88pt x 319.33304pt>
+File: fig/4.5.pdf Graphic file (type pdf)
+<use fig/4.5.pdf>
+Package pdftex.def Info: fig/4.5.pdf  used on input line 216.
+(pdftex.def)             Requested size: 433.62001pt x 179.62437pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.6.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.6.pdf, id=858, 770.88pt x 315.29794pt>
+File: fig/4.6.pdf Graphic file (type pdf)
+<use fig/4.6.pdf>
+Package pdftex.def Info: fig/4.6.pdf  used on input line 225.
+(pdftex.def)             Requested size: 325.215pt x 133.01599pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95 <./fig/4.5.pdf> <./fig/4.6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.7.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.7.pdf, id=922, 770.88pt x 371.37746pt>
+File: fig/4.7.pdf Graphic file (type pdf)
+<use fig/4.7.pdf>
+Package pdftex.def Info: fig/4.7.pdf  used on input line 236.
+(pdftex.def)             Requested size: 433.62001pt x 208.89929pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96 <./fig/4.7.pdf>]
+<fig/4.8.pdf, id=1045, 1129.21875pt x 752.8125pt>
+File: fig/4.8.pdf Graphic file (type pdf)
+<use fig/4.8.pdf>
+Package pdftex.def Info: fig/4.8.pdf  used on input line 248.
+(pdftex.def)             Requested size: 325.215pt x 216.80524pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97 <./fig/4.8.pdf>]
+Underfull \hbox (badness 7685) in paragraph at lines 268--268
+[]|\OT1/cmr/bx/n/12 Total Foot
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 268--268
+[]|\OT1/cmr/bx/n/12 Total Cus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\OT1/cmr/bx/n/12 tomer
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 268--268
+[]|\OT1/cmr/bx/n/12 Total Cus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\OT1/cmr/bx/n/12 tomer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[]|\OT1/cmr/bx/n/12 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[]|\OT1/cmr/bx/n/12 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\OT1/cmr/bx/n/12 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\OT1/cmr/bx/n/12 Time
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.9.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<fig/4.9.pdf, id=1057, 907.8417pt x 751.4574pt>
+File: fig/4.9.pdf Graphic file (type pdf)
+<use fig/4.9.pdf>
+Package pdftex.def Info: fig/4.9.pdf  used on input line 283.
+(pdftex.def)             Requested size: 325.215pt x 269.19435pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.10.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.10.pdf, id=1061, 839.33577pt x 275.7201pt>
+File: fig/4.10.pdf Graphic file (type pdf)
+<use fig/4.10.pdf>
+Package pdftex.def Info: fig/4.10.pdf  used on input line 294.
+(pdftex.def)             Requested size: 368.57965pt x 121.0774pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[100 <./fig/4.9.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.11.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.11.pdf, id=1112, 833.3032pt x 274.42525pt>
+File: fig/4.11.pdf Graphic file (type pdf)
+<use fig/4.11.pdf>
+Package pdftex.def Info: fig/4.11.pdf  used on input line 303.
+(pdftex.def)             Requested size: 368.57965pt x 121.38396pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[101 <./fig/4.10.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[102 <./fig/4.11.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.12.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.12.pdf, id=1127, 821.12772pt x 404.09972pt>
+File: fig/4.12.pdf Graphic file (type pdf)
+<use fig/4.12.pdf>
+Package pdftex.def Info: fig/4.12.pdf  used on input line 318.
+(pdftex.def)             Requested size: 368.57965pt x 181.3869pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[103 <./fig/4.12.pdf>]
+Overfull \hbox (3.10258pt too wide) in paragraph at lines 324--325
+[]\OT1/cmr/m/n/12 Starting with MOTA (Mul-ti-ple Ob-ject Track-ing Ac-cu-racy),
+ the sys-tem achieves
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[104]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[105]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[106]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.13.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.13.pdf, id=1145, 845.40843pt x 567.77121pt>
+File: fig/4.13.pdf Graphic file (type pdf)
+<use fig/4.13.pdf>
+Package pdftex.def Info: fig/4.13.pdf  used on input line 347.
+(pdftex.def)             Requested size: 433.62001pt x 291.2142pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[107 <./fig/4.13.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.14.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.14.pdf, id=1157, 845.40843pt x 565.85402pt>
+File: fig/4.14.pdf Graphic file (type pdf)
+<use fig/4.14.pdf>
+Package pdftex.def Info: fig/4.14.pdf  used on input line 356.
+(pdftex.def)             Requested size: 433.62001pt x 290.23087pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[108 <./fig/4.14.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.15.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.15.pdf, id=1167, 845.40843pt x 533.36263pt>
+File: fig/4.15.pdf Graphic file (type pdf)
+<use fig/4.15.pdf>
+Package pdftex.def Info: fig/4.15.pdf  used on input line 365.
+(pdftex.def)             Requested size: 433.62001pt x 273.56578pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[109 <./fig/4.15.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.16.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.16.pdf, id=1177, 845.40843pt x 496.47482pt>
+File: fig/4.16.pdf Graphic file (type pdf)
+<use fig/4.16.pdf>
+Package pdftex.def Info: fig/4.16.pdf  used on input line 380.
+(pdftex.def)             Requested size: 346.89732pt x 203.71507pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[110]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.17.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.17.pdf, id=1181, 845.40843pt x 541.62347pt>
+File: fig/4.17.pdf Graphic file (type pdf)
+<use fig/4.17.pdf>
+Package pdftex.def Info: fig/4.17.pdf  used on input line 389.
+(pdftex.def)             Requested size: 433.62001pt x 277.80283pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[111 <./fig/4.16.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.18.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.18.pdf, id=1192, 845.40843pt x 590.56633pt>
+File: fig/4.18.pdf Graphic file (type pdf)
+<use fig/4.18.pdf>
+Package pdftex.def Info: fig/4.18.pdf  used on input line 400.
+(pdftex.def)             Requested size: 433.62001pt x 302.90599pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[112 <./fig/4.17.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.19.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.19.pdf, id=1203, 845.40843pt x 591.58014pt>
+File: fig/4.19.pdf Graphic file (type pdf)
+<use fig/4.19.pdf>
+Package pdftex.def Info: fig/4.19.pdf  used on input line 409.
+(pdftex.def)             Requested size: 433.62001pt x 303.426pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[113 <./fig/4.18.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[114 <./fig/4.19.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.20.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.20.pdf, id=1226, 845.40843pt x 536.69508pt>
+File: fig/4.20.pdf Graphic file (type pdf)
+<use fig/4.20.pdf>
+Package pdftex.def Info: fig/4.20.pdf  used on input line 421.
+(pdftex.def)             Requested size: 346.89732pt x 220.21838pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[115 <./fig/4.20.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.21.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.21.pdf, id=1236, 845.40843pt x 483.02458pt>
+File: fig/4.21.pdf Graphic file (type pdf)
+<use fig/4.21.pdf>
+Package pdftex.def Info: fig/4.21.pdf  used on input line 440.
+(pdftex.def)             Requested size: 433.62001pt x 247.74701pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[116 <./fig/4.21.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[117]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.22.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.22.pdf, id=1247, 681.7771pt x 597.73312pt>
+File: fig/4.22.pdf Graphic file (type pdf)
+<use fig/4.22.pdf>
+Package pdftex.def Info: fig/4.22.pdf  used on input line 469.
+(pdftex.def)             Requested size: 433.62001pt x 380.17651pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[118 <./fig/4.22.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.23.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.23.pdf, id=1257, 845.40843pt x 151.36551pt>
+File: fig/4.23.pdf Graphic file (type pdf)
+<use fig/4.23.pdf>
+Package pdftex.def Info: fig/4.23.pdf  used on input line 478.
+(pdftex.def)             Requested size: 433.62001pt x 77.63652pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[119 <./fig/4.23.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./fig/4.24.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<fig/4.24.pdf, id=1265, 845.40843pt x 481.11746pt>
+File: fig/4.24.pdf Graphic file (type pdf)
+<use fig/4.24.pdf>
+Package pdftex.def Info: fig/4.24.pdf  used on input line 497.
+(pdftex.def)             Requested size: 325.215pt x 185.07295pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[120 <./fig/4.24.pdf>]
+Overfull \hbox (433.62001pt too wide) detected at line 512
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]|\OT1/cmr/bx/n/10.95 Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]|\OT1/cmr/bx/n/10.95 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+[]|\OT1/cmr/bx/n/10.95 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (2.28403pt too wide) in paragraph at lines 515--515
+[]|\OT1/cmr/bx/n/10.95 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--515
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (2.28403pt too wide) in paragraph at lines 515--516
+[]|\OT1/cmr/bx/n/10.95 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (6.39417pt too wide) in alignment at lines 511--517
+[] [] [] [] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\OT1/cmr/bx/n/10.95 Zone
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\OT1/cmr/bx/n/10.95 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+[]|\OT1/cmr/bx/n/10.95 Total
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (2.28403pt too wide) in paragraph at lines 522--522
+[]|\OT1/cmr/bx/n/10.95 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--522
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (2.28403pt too wide) in paragraph at lines 522--523
+[]|\OT1/cmr/bx/n/10.95 Average
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\OT1/cmr/bx/n/10.95 Dwell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+\OT1/cmr/bx/n/10.95 Time
+ []
+
+
+Overfull \hbox (6.39417pt too wide) in alignment at lines 517--524
+[] [] [] [] [] [] []
+ []
+
+
+Overfull \hbox (6.39417pt too wide) in alignment at lines 524--527
+[] [] [] [] [] [] []
+ []
+
+
+Overfull \hbox (6.39417pt too wide) in alignment at lines 527--530
+[] [] [] [] [] [] []
+ []
+
+
+Overfull \hbox (8.39009pt too wide) in paragraph at lines 544--544
+[]|\OT1/cmr/bx/n/10.95 20,356.59| 
+ []
+
+
+Overfull \hbox (2.09389pt too wide) in paragraph at lines 544--544
+[]|\OT1/cmr/bx/n/10.95 1,032.76| 
+ []
+
+
+Overfull \hbox (6.39417pt too wide) in alignment at lines 530--546
+[] [] [] [] [] [] []
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[121]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[122]
+<fig/4.25.pdf, id=1279, 845.40843pt x 597.73312pt>
+File: fig/4.25.pdf Graphic file (type pdf)
+<use fig/4.25.pdf>
+Package pdftex.def Info: fig/4.25.pdf  used on input line 561.
+(pdftex.def)             Requested size: 368.57965pt x 260.59552pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[123]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[124 <./fig/4.25.pdf>]
+<fig/4.26.pdf, id=1291, 1445.4pt x 813.0375pt>
+File: fig/4.26.pdf Graphic file (type pdf)
+<use fig/4.26.pdf>
+Package pdftex.def Info: fig/4.26.pdf  used on input line 572.
+(pdftex.def)             Requested size: 368.57965pt x 207.32802pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[125 <./fig/4.26.pdf>])
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[126]
+\openout2 = `chapter5.aux'.
+
+ (chapter5.tex
+Chapter 5.
+
+
+[127
+
+
+
+
+]
+Overfull \hbox (3.90399pt too wide) in paragraph at lines 15--16
+[]\OT1/cmr/m/n/12 In con-clu-sion, SUBAY: A Multi-Camera De-tec-tion Sys-tem Fo
+r Cus-tomer Track-
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[128]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[129]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[130]
+Overfull \hbox (23.92894pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 prob-lem across cam-eras. This in-cludes ex-per-i-ment-ing with
+ pose-aware or embedding-
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[131]
+\openout2 = `bibliography.aux'.
+
+ (bibliography.tex (thesis.bbl
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[132
+
+
+
+
+]))
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[133]
+\openout2 = `appendix.aux'.
+
+ (appendix.tex
+
+pdfTeX warning: pdflatex.exe (file ./app/AA.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/AA.pdf, id=1324, 846.58281pt x 488.48499pt>
+File: app/AA.pdf Graphic file (type pdf)
+<use app/AA.pdf>
+Package pdftex.def Info: app/AA.pdf  used on input line 21.
+(pdftex.def)             Requested size: 433.62001pt x 250.20483pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[134
+
+
+
+ <./app/AA.pdf>]
+Overfull \hbox (18.78647pt too wide) in paragraph at lines 86--95
+[][] [] 
+ []
+
+
+Overfull \hbox (18.78647pt too wide) in paragraph at lines 98--107
+[][] [] 
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[135
+
+]
+<appendices/zone1.jpg, id=1348, 1541.76pt x 2055.68pt>
+File: appendices/zone1.jpg Graphic file (type jpg)
+<use appendices/zone1.jpg>
+Package pdftex.def Info: appendices/zone1.jpg  used on input line 135.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+<appendices/zone2.jpg, id=1349, 1541.76pt x 2055.68pt>
+File: appendices/zone2.jpg Graphic file (type jpg)
+<use appendices/zone2.jpg>
+Package pdftex.def Info: appendices/zone2.jpg  used on input line 135.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+<appendices/zone3.jpg, id=1350, 1541.76pt x 2055.68pt>
+File: appendices/zone3.jpg Graphic file (type jpg)
+<use appendices/zone3.jpg>
+Package pdftex.def Info: appendices/zone3.jpg  used on input line 140.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+<appendices/zone4.jpg, id=1351, 1541.76pt x 2055.68pt>
+File: appendices/zone4.jpg Graphic file (type jpg)
+<use appendices/zone4.jpg>
+Package pdftex.def Info: appendices/zone4.jpg  used on input line 140.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+<appendices/zone5.jpg, id=1352, 1541.76pt x 2055.68pt>
+File: appendices/zone5.jpg Graphic file (type jpg)
+<use appendices/zone5.jpg>
+Package pdftex.def Info: appendices/zone5.jpg  used on input line 145.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+<appendices/zone6.jpg, id=1353, 1541.76pt x 2055.68pt>
+File: appendices/zone6.jpg Graphic file (type jpg)
+<use appendices/zone6.jpg>
+Package pdftex.def Info: appendices/zone6.jpg  used on input line 145.
+(pdftex.def)             Requested size: 130.08733pt x 173.42876pt.
+
+Overfull \hbox (7.85146pt too wide) in alignment at lines 132--149
+[] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[136
+
+ <./appendices/zone1.jpg> <./appendices/zone2.jpg> <./appendices/zone3.jpg> <./
+appendices/zone4.jpg>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[137 <./appendices/zone5.jpg> <./appendices/zone6.jpg>]
+
+pdfTeX warning: pdflatex.exe (file ./app/D1.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/D1.pdf, id=1361, 446.6788pt x 579.2029pt>
+File: app/D1.pdf Graphic file (type pdf)
+<use app/D1.pdf>
+Package pdftex.def Info: app/D1.pdf  used on input line 165.
+(pdftex.def)             Requested size: 411.93768pt x 534.1723pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/D2.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/D2.pdf, id=1362, 446.68881pt x 696.64262pt>
+File: app/D2.pdf Graphic file (type pdf)
+<use app/D2.pdf>
+Package pdftex.def Info: app/D2.pdf  used on input line 166.
+(pdftex.def)             Requested size: 398.92961pt x 622.15723pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/D3.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/D3.pdf, id=1363, 446.6788pt x 680.5425pt>
+File: app/D3.pdf Graphic file (type pdf)
+<use app/D3.pdf>
+Package pdftex.def Info: app/D3.pdf  used on input line 167.
+(pdftex.def)             Requested size: 398.92961pt x 607.82007pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/D4.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/D4.pdf, id=1364, 446.6788pt x 665.48625pt>
+File: app/D4.pdf Graphic file (type pdf)
+<use app/D4.pdf>
+Package pdftex.def Info: app/D4.pdf  used on input line 168.
+(pdftex.def)             Requested size: 398.92961pt x 594.37273pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[138
+
+ <./app/D1.pdf>]
+Overfull \vbox (7.86223pt too high) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[139 <./app/D2.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[140 <./app/D3.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[141 <./app/D4.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/E.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/E.pdf, id=1471, 594.49103pt x 796.5459pt>
+File: app/E.pdf Graphic file (type pdf)
+<use app/E.pdf>
+Package pdftex.def Info: app/E.pdf  used on input line 184.
+(pdftex.def)             Requested size: 390.25536pt x 522.90213pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[142
+
+ <./app/E.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/F.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/F.pdf, id=1491, 597.73312pt x 781.53983pt>
+File: app/F.pdf Graphic file (type pdf)
+<use app/F.pdf>
+Package pdftex.def Info: app/F.pdf  used on input line 228.
+(pdftex.def)             Requested size: 433.62001pt x 566.96559pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[143
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[144 <./app/F.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/G.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/G.pdf, id=1503, 597.73312pt x 623.2083pt>
+File: app/G.pdf Graphic file (type pdf)
+<use app/G.pdf>
+Package pdftex.def Info: app/G.pdf  used on input line 273.
+(pdftex.def)             Requested size: 433.62001pt x 452.10448pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[145
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[146 <./app/G.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/H.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/H.pdf, id=1514, 711.7591pt x 677.53125pt>
+File: app/H.pdf Graphic file (type pdf)
+<use app/H.pdf>
+Package pdftex.def Info: app/H.pdf  used on input line 289.
+(pdftex.def)             Requested size: 433.62001pt x 412.7662pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[147
+
+ <./app/H.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/I.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/I.pdf, id=1527, 774.28273pt x 677.53125pt>
+File: app/I.pdf Graphic file (type pdf)
+<use app/I.pdf>
+Package pdftex.def Info: app/I.pdf  used on input line 305.
+(pdftex.def)             Requested size: 433.62001pt x 379.44592pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[148
+
+ <./app/I.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/L.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/L.pdf, id=1541, 509.96523pt x 618.23973pt>
+File: app/L.pdf Graphic file (type pdf)
+<use app/L.pdf>
+Package pdftex.def Info: app/L.pdf  used on input line 320.
+(pdftex.def)             Requested size: 433.62001pt x 525.70436pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[149
+
+ <./app/L.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/M.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/M.pdf, id=1547, 534.94858pt x 706.94112pt>
+File: app/M.pdf Graphic file (type pdf)
+<use app/M.pdf>
+Package pdftex.def Info: app/M.pdf  used on input line 335.
+(pdftex.def)             Requested size: 390.25536pt x 515.72833pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/N.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/N.pdf, id=1548, 501.22256pt x 671.96045pt>
+File: app/N.pdf Graphic file (type pdf)
+<use app/N.pdf>
+Package pdftex.def Info: app/N.pdf  used on input line 336.
+(pdftex.def)             Requested size: 390.25536pt x 523.19398pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/O.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<app/O.pdf, id=1549, 537.71893pt x 717.88202pt>
+File: app/O.pdf Graphic file (type pdf)
+<use app/O.pdf>
+Package pdftex.def Info: app/O.pdf  used on input line 337.
+(pdftex.def)             Requested size: 390.25536pt x 521.03717pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[150
+
+ <./app/M.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[151 <./app/N.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[152 <./app/O.pdf>]
+<app/L1.pdf, id=1567, 597.73312pt x 845.40843pt>
+File: app/L1.pdf Graphic file (type pdf)
+<use app/L1.pdf>
+Package pdftex.def Info: app/L1.pdf  used on input line 352.
+(pdftex.def)             Requested size: 403.26343pt x 570.36807pt.
+<app/L2.pdf, id=1568, 597.73312pt x 845.40843pt>
+File: app/L2.pdf Graphic file (type pdf)
+<use app/L2.pdf>
+Package pdftex.def Info: app/L2.pdf  used on input line 353.
+(pdftex.def)             Requested size: 433.62001pt x 613.29886pt.
+<app/L3.pdf, id=1569, 597.73312pt x 845.40843pt>
+File: app/L3.pdf Graphic file (type pdf)
+<use app/L3.pdf>
+Package pdftex.def Info: app/L3.pdf  used on input line 354.
+(pdftex.def)             Requested size: 433.62001pt x 613.29886pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[153
+
+ <./app/L1.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[154 <./app/L2.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[155 <./app/L3.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/J1.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J1.pdf, id=1592, 457.34866pt x 752.682pt>
+File: app/J1.pdf Graphic file (type pdf)
+<use app/J1.pdf>
+Package pdftex.def Info: app/J1.pdf  used on input line 371.
+(pdftex.def)             Requested size: 325.215pt x 535.22339pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/J2.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J2.pdf, id=1593, 451.46667pt x 713.87706pt>
+File: app/J2.pdf Graphic file (type pdf)
+<use app/J2.pdf>
+Package pdftex.def Info: app/J2.pdf  used on input line 372.
+(pdftex.def)             Requested size: 325.215pt x 514.2743pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/J3.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J3.pdf, id=1594, 443.82816pt x 736.28076pt>
+File: app/J3.pdf Graphic file (type pdf)
+<use app/J3.pdf>
+Package pdftex.def Info: app/J3.pdf  used on input line 373.
+(pdftex.def)             Requested size: 325.215pt x 539.5252pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/J4.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J4.pdf, id=1595, 462.79903pt x 747.90414pt>
+File: app/J4.pdf Graphic file (type pdf)
+<use app/J4.pdf>
+Package pdftex.def Info: app/J4.pdf  used on input line 374.
+(pdftex.def)             Requested size: 325.215pt x 525.5721pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/J5.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J5.pdf, id=1596, 468.52037pt x 762.09718pt>
+File: app/J5.pdf Graphic file (type pdf)
+<use app/J5.pdf>
+Package pdftex.def Info: app/J5.pdf  used on input line 375.
+(pdftex.def)             Requested size: 325.215pt x 529.01062pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/J6.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/J6.pdf, id=1597, 457.19807pt x 744.81264pt>
+File: app/J6.pdf Graphic file (type pdf)
+<use app/J6.pdf>
+Package pdftex.def Info: app/J6.pdf  used on input line 376.
+(pdftex.def)             Requested size: 325.215pt x 529.80942pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[156
+
+ <./app/J1.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[157 <./app/J2.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[158 <./app/J3.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[159 <./app/J4.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[160 <./app/J5.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[161 <./app/J6.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ./app/K1.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/K1.pdf, id=1665, 471.00969pt x 582.87764pt>
+File: app/K1.pdf Graphic file (type pdf)
+<use app/K1.pdf>
+Package pdftex.def Info: app/K1.pdf  used on input line 391.
+(pdftex.def)             Requested size: 433.62001pt x 536.60968pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./app/K2.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<app/K2.pdf, id=1666, 357.14429pt x 341.546pt>
+File: app/K2.pdf Graphic file (type pdf)
+<use app/K2.pdf>
+Package pdftex.def Info: app/K2.pdf  used on input line 392.
+(pdftex.def)             Requested size: 433.62001pt x 414.6999pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[162
+
+ <./app/K1.pdf>]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[163 <./app/K2.pdf>])
+\openout2 = `dominguezcv.aux'.
+
+ (dominguezcv.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[164
+
+
+
+
+]
+\openout2 = `jumuadcv.aux'.
+
+ (jumuadcv.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[165
+
+
+
+]
+\openout2 = `nolascocv.aux'.
+
+ (nolascocv.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[166
+
+
+
+]
+\openout2 = `onahoncv.aux'.
+
+ (onahoncv.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[167
+
+
+
+]
+\openout2 = `caa.aux'.
+
+ (caa.tex
+Overfull \hbox (18.22026pt too wide) in paragraph at lines 13--15
+$[]$ 
+ []
+
+)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[168
+
+
+
+] (thesis.aux (chapter1.aux) (chapter2.aux) (chapter3.aux) (chapter4.aux)
+(chapter5.aux) (bibliography.aux) (appendix.aux) (dominguezcv.aux)
+(jumuadcv.aux) (nolascocv.aux) (onahoncv.aux) (caa.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2020/03/25>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 11616 strings out of 473898
+ 200072 string characters out of 5723139
+ 646784 words of memory out of 5000000
+ 34149 multiletter control sequences out of 15000+600000
+ 573976 words of font info for 103 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 88i,15n,134p,1455b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ACER NITRO 5\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi6
+00\tcrm1200.pk><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmbx10.pfb><C:/Users/ACER NITRO 5/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ACER NITRO 5/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/ACER NI
+TRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb
+><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cmextra/cmex8.pfb><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ACER NITRO 5/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/ACER NITRO 5/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/AC
+ER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/ACER NITRO 5/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ACER NITRO 5/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/ACER N
+ITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmti10.pfb><C:/Users/ACER NITRO 5/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (183 pages, 107166913 bytes).
+PDF statistics:
+ 1812 PDF objects out of 2073 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 411 words of extra memory for PDF output out of 10000 (max. 10000000)
+

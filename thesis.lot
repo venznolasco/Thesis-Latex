@@ -1,0 +1,19 @@
+{\bfseries No.\hfill \makebox [3in][c]{Table}\hfill Page No.\par \vspace \bigskipamount }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Synthesis Matrix}}{28}{}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces User Requirements Table}}{46}{}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces System Requirements}}{48}{}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Evaluation Indicators for Multi-Object Tracking \citep {Li2023}}}{81}{}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Performance Metrics for YOLOv10x \citep {Ultralytics2025}}}{85}{}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Sampling Methodology Overview}}{87}{}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces YOLOv10x Model Accuracy based on the Elements of a Confusion Matrix}}{88}{}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Customer Tracking Performance Across Different Retail Scenarios}}{92}{}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Re-Identification Model Training Results}}{94}{}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Summary of Customer Count and Dwell Time Based on Test Track}}{98}{}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Zone-based Foot Traffic and Dwell Time Count Results}}{122}{}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces System Usability Scale Final Result}}{126}{}%
+\addvspace {10\p@ }
+\contentsfinish 
