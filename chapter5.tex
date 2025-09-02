@@ -1,0 +1,46 @@
+\chapter{CONCLUSIONS AND RECOMMENDATIONS}
+{\baselineskip=2\baselineskip
+
+This chapter summarizes the results obtained in this study and gives some recommendations for further improvements.
+
+\section{Summary of Findings}
+
+This study aimed to develop and evaluate SUBAY, a multi-camera detection system for customer tracking in a retail environment. The system integrated object detection, multi-camera identity tracking, and a web-based dashboard to analyze customer behavior through visual data.
+
+The system successfully implemented advanced object detection models, particularly the YOLOv10 architecture, and tracked customers across multiple camera angles using a custom-built algorithm. Testing and evaluation showed that the system provided meaningful behavioral insights to aid store layout decisions and marketing strategies. However, several challenges emerged during implementation. Variable lighting conditions and occlusions from shelves or other customers reduced detection accuracy. Additionally, the presence of non-customer individuals, such as sales representatives, affected customer counting unless they were visually distinguishable. The system also required extensive preprocessing of camera feeds to ensure visual consistency across all angles.
+
+Another technical consideration was the system’s trade-off between accuracy and performance. The multi-camera tracking algorithm operated with a high computational load, which led to lower FPS but was necessary for reliable identity matching. Moreover, high-accuracy detection models such as YOLOv10 demanded substantial hardware resources, including high-performance computing (HPC) for training and testing. Despite these limitations, SUBAY demonstrated its potential as a valuable tool for customer behavior analytics in retail settings.
+
+\section{Conclusion}
+In conclusion, SUBAY: A Multi-Camera Detection System For Customer Tracking Using YOLOv10, DeepSORT, and OSNet for Re-Identification in Retail Environments achieved its objectives of detecting, tracking, and analyzing customer movement using multiple cameras. The system processed video feeds, assigned identities across various viewpoints, and presented visual analytics through a user-friendly web application.
+
+The findings highlighted that computer vision and object detection models can successfully adapt to real-world retail environments. However, technical limitations such as lighting inconsistencies, occlusion, and identity switching remain areas for improvement. The study also emphasized the importance of data preprocessing and model selection based on hardware availability and system goals.
+
+Overall, SUBAY provided meaningful insights into customer behavior that can inform store layout planning, staff allocation, and marketing approaches. While further improvements are needed to address current limitations, the system lays a solid foundation for more intelligent and responsive retail analytics tools.
+
+\section{Recommendations}
+
+Based on the study's results, the researchers recommend several directions for future improvements.
+\begin{itemize}
+	\item First, digital signal processing (DSP) techniques should be applied to preprocess camera feeds. Adjusting parameters like brightness, contrast, shadows, highlights, and exposure levels before passing the data to detection models can lead to more consistent outputs. This preprocessing step is significant in stores with uneven lighting or varying ambient conditions, where model accuracy tends to drop.
+	
+	\item Future researchers should explore and utilize appropriate tools to determine the optimal camera placement and angles when installing surveillance systems. This could help minimize angle distortion, which has been found to affect the accuracy of object tracking negatively.
+	
+	\item Future systems could implement facial recognition or uniform detection to distinguish employees from shoppers and avoid miscounting store staff as customers. This would require more advanced models and hardware, and must be implemented with privacy considerations in mind. Additionally, syncing CCTV time with real-world time is highly recommended to align tracking data with actual events or sales logs.
+	
+	\item Researchers may consider implementing a multi-model layer approach to improve the system's identity tracking performance. This involves combining techniques such as pose analysis, image recognition, and embedding comparison to increase the accuracy of re-identification (Re-ID) across multiple cameras. A multi-model strategy can mitigate issues like identity switching and misidentification caused by occlusions or different viewing angles.
+	
+	\item Integrating spatial-temporal constraints into the tracking pipeline can enhance Re-ID performance, especially in areas prone to heavy occlusion. Considering the logical flow of individual movement through time and space allows the system to predict identities better, even when visual contact is temporarily lost.
+	
+	\item Future researchers should optimize the tracking algorithm to reduce computational load and address performance and resource constraints. Lighter versions of YOLO or other object detection models may be used if real-time detection is prioritized over high accuracy. However, researchers seeking higher detection accuracy should explore higher versions of YOLO while also preparing for the higher hardware demands that come with them.
+	
+	\item Moreover, researchers who wish to expand the system's functionality may consider integrating it with a point-of-sale (POS) system. The system can generate valuable insights such as product preferences, aisle visits, and shopping trajectories by linking tracking data with customer purchases. This would enhance the system's use as an intelligent marketing tool, improving both business strategies and customer experience.
+	
+	\item Finally, future work should continue to explore solutions to the re-identification problem across cameras. This includes experimenting with pose-aware or embedding-based Re-ID models, training with more diverse datasets, and testing the system in different retail layouts and environments. These efforts will help strengthen the system’s generalizability and performance in real-world commercial applications.
+\end{itemize}
+
+With these improvements, systems like SUBAY can become even more accurate, scalable, and beneficial for the retail industry.
+
+%---------------------------------------------------------------------------------------
+
+}
